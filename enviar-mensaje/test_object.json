@@ -1,0 +1,25 @@
+{
+	"id_usuario": "1",
+	"eventos": [
+	{
+	"id_evento":"1",
+	"distancia_al_evento": 141,
+	"tipo_evento": "emergencia_ciudadana",
+	"descripcion_evento": "Dirección: JR. HUASCARAN  355  - LA VICTORIA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",
+	"ubicacion": null,
+	"nivel_riesgo": 0.9,
+	"hora_evento": "",
+	"tipo_ubicacion": "actual"
+	},
+	{
+	"id_evento":"2",
+	"distancia_al_evento": 50,
+	"tipo_evento": "conflicto_social",
+	"descripcion_evento": "Hay una manifestación en la zona de Plaza Dos de Mayo, se recomienda evitar la zona.",
+	"ubicacion": "Jardín de niños de mi hija",
+	"nivel_riesgo": 0.8,
+	"hora_evento": "",
+	"tipo_ubicacion": "familiar"
+	}
+	]
+}

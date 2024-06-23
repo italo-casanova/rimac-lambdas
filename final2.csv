@@ -1,0 +1,840 @@
+id,latitude,longitude,event_type,description,update_at
+1,-5.64,-77.06,Sismo,"Magnitud: 4.0, Referencia: 42 km al NE de Nueva Cajamarca, Rioja - San Martin",2023-11-30 02:54:28
+2,-8.34,-80.18,Sismo,"Magnitud: 4.0, Referencia: 126 km al SO de San Pedro De Lloc, Pacasmayo - La Libertad",2023-11-30 04:58:00
+3,-8.61,-77.63,Sismo,"Magnitud: 3.7, Referencia: 7 km al S de Sihuas, Sihuas - Ancash",2023-11-30 20:57:19
+4,-12.53,-76.65,Sismo,"Magnitud: 3.6, Referencia: 10 km al E de Chilca, Cañete - Lima",2023-11-30 22:29:31
+5,-15.72,-72.0,Sismo,"Magnitud: 3.6, Referencia: 11 km al S de Cabanaconde, Caylloma - Arequipa",2023-12-01 15:13:18
+6,-16.35,-72.35,Sismo,"Magnitud: 4.1, Referencia: 35 km al SE de Aplao, Castilla - Arequipa",2023-12-01 16:50:19
+7,-16.61,-71.56,Sismo,"Magnitud: 3.5, Referencia: 25 km al S de Arequipa, Arequipa - Arequipa",2023-12-01 21:12:18
+8,-10.39,-70.66,Sismo,"Magnitud: 4.9, Referencia: 68 km al S de Esperanza, Purus - Ucayali",2023-12-02 02:34:18
+9,-19.28,-69.45,Sismo,"Magnitud: 5.5, Referencia: 164 km al SE de Calana, Tacna - Tacna",2023-12-02 08:04:19
+10,-3.22,-76.83,Sismo,"Magnitud: 4.0, Referencia: 59 km al SO de Andoas, Datem del Marañón - Loreto",2023-12-02 13:06:18
+11,-15.67,-71.71,Sismo,"Magnitud: 3.5, Referencia: 7 km al SE de Maca, Caylloma - Arequipa",2023-12-02 22:59:18
+12,-16.45,-72.43,Sismo,"Magnitud: 4.5, Referencia: 29 km al N de Quilca, Camana - Arequipa",2023-12-04 11:27:18
+13,-4.25,-81.04,Sismo,"Magnitud: 4.0, Referencia: 16 km al S de Mancora, Talara - Piura",2023-12-04 18:06:18
+14,-10.97,-78.26,Sismo,"Magnitud: 3.9, Referencia: 60 km al SO de Barranca, Barranca - Lima",2023-12-05 01:21:18
+15,-15.97,-72.98,Sismo,"Magnitud: 4.0, Referencia: 38 km al O de Chuquibamba, Condesuyos - Arequipa",2023-12-05 14:12:18
+16,-16.02,-74.59,Sismo,"Magnitud: 3.7, Referencia: 41 km al S de Yauca, Caraveli - Arequipa",2023-12-05 17:52:49
+17,-16.8,-71.62,Sismo,"Magnitud: 3.7, Referencia: 17 km al O de La Capilla, General Sanchez Cerro - Moquegua",2023-12-05 19:14:19
+18,-14.87,-76.61,Sismo,"Magnitud: 4.3, Referencia: 131 km al SO de Ica, Ica - Ica",2023-12-06 07:16:18
+19,-18.51,-69.92,Sismo,"Magnitud: 4.1, Referencia: 66 km al SE de Calana, Tacna - Tacna",2023-12-06 16:18:18
+20,-16.03,-74.33,Sismo,"Magnitud: 4.1, Referencia: 22 km al SO de Chala, Caraveli - Arequipa",2023-12-07 02:21:20
+21,-4.27,-77.48,Sismo,"Magnitud: 4.3, Referencia: 55 km al NE de Sta. Maria De Nieva, Condorcanqui - Amazonas",2023-12-07 07:23:18
+22,-12.66,-76.84,Sismo,"Magnitud: 3.6, Referencia: 20 km al SO de Chilca, Cañete - Lima",2023-12-08 05:14:19
+23,-10.31,-75.32,Sismo,"Magnitud: 3.8, Referencia: 24 km al E de Huancabamba, Oxapampa - Pasco",2023-12-08 12:27:18
+24,-11.03,-73.94,Sismo,"Magnitud: 4.1, Referencia: 40 km al SO de Atalaya, Atalaya - Ucayali",2023-12-08 21:45:19
+25,-3.57,-80.42,Sismo,"Magnitud: 3.8, Referencia: 4 km al E de Tumbes, Tumbes - Tumbes",2023-12-09 04:37:18
+26,-14.36,-76.58,Sismo,"Magnitud: 4.6, Referencia: 83 km al SO de Pisco, Pisco - Ica",2023-12-10 03:47:18
+27,-14.39,-76.63,Sismo,"Magnitud: 4.5, Referencia: 89 km al SO de Pisco, Pisco - Ica",2023-12-10 08:48:18
+28,-14.39,-76.51,Sismo,"Magnitud: 5.3, Referencia: 83 km al SO de Pisco, Pisco - Ica",2023-12-10 11:43:47
+29,-14.39,-76.67,Sismo,"Magnitud: 5.8, Referencia: 91 km al SO de Pisco, Pisco - Ica",2023-12-10 11:55:38
+30,-14.41,-76.57,Sismo,"Magnitud: 4.0, Referencia: 87 km al SO de Pisco, Pisco - Ica",2023-12-10 12:47:19
+31,-14.35,-76.52,Sismo,"Magnitud: 4.1, Referencia: 79 km al SO de Pisco, Pisco - Ica",2023-12-10 15:46:00
+32,-15.34,-72.02,Sismo,"Magnitud: 4.4, Referencia: 31 km al N de Cabanaconde, Caylloma - Arequipa",2023-12-10 17:24:18
+33,-14.34,-76.55,Sismo,"Magnitud: 4.0, Referencia: 80 km al SO de Pisco, Pisco - Ica",2023-12-10 21:19:18
+34,-16.13,-71.66,Sismo,"Magnitud: 3.9, Referencia: 14 km al N de Yura, Arequipa - Arequipa",2023-12-11 20:22:19
+35,-11.56,-76.64,Sismo,"Magnitud: 4.1, Referencia: 12 km al S de Canta, Canta - Lima",2023-12-13 07:46:20
+36,-8.33,-76.27,Sismo,"Magnitud: 4.0, Referencia: 28 km al NE de Uchiza, Tocache - San Martin",2023-12-13 12:48:19
+37,-7.1,-79.38,Sismo,"Magnitud: 4.0, Referencia: 14 km al NE de Chepen, Chepen - La Libertad",2023-12-13 22:40:19
+38,-16.8,-71.34,Sismo,"Magnitud: 3.5, Referencia: 18 km al O de La Capilla, General Sanchez Cerro - Moquegua",2023-12-14 07:00:18
+39,-16.73,-71.18,Sismo,"Magnitud: 3.5, Referencia: 3 km al N de La Capilla, General Sanchez Cerro - Moquegua",2023-12-14 03:42:18
+40,-15.21,-75.9,Sismo,"Magnitud: 4.1, Referencia: 80 km al O de Marcona, Nazca - Ica",2023-12-14 12:33:18
+41,-16.4,-74.03,Sismo,"Magnitud: 4.4, Referencia: 49 km al SO de Atico, Caraveli - Arequipa",2023-12-14 09:52:18
+42,-14.45,-76.49,Sismo,"Magnitud: 4.1, Referencia: 88 km al S de Pisco, Pisco - Ica",2023-12-14 16:03:18
+43,-16.82,-72.9,Sismo,"Magnitud: 3.7, Referencia: 30 km al SO de Camana, Camana - Arequipa",2023-12-15 10:06:18
+44,-16.38,-72.04,Sismo,"Magnitud: 3.5, Referencia: 15 km al NO de Vitor, Arequipa - Arequipa",2023-12-15 15:08:18
+45,-14.55,-76.61,Sismo,"Magnitud: 4.0, Referencia: 103 km al SO de Pisco, Pisco - Ica",2023-12-15 17:57:24
+46,-9.84,-75.64,Sismo,"Magnitud: 3.8, Referencia: 27 km al SO de Codo Del Pozuzo, Puerto Inca - Huanuco",2023-12-16 07:47:18
+47,-18.91,-72.5,Sismo,"Magnitud: 4.1, Referencia: 187 km al SO de Ilo, Ilo - Moquegua",2023-12-16 14:36:19
+48,-5.33,-80.8,Sismo,"Magnitud: 4.0, Referencia: 24 km al SO de Piura, Piura - Piura",2023-12-16 12:49:19
+49,-15.25,-75.61,Sismo,"Magnitud: 4.3, Referencia: 49 km al O de Marcona, Nazca - Ica",2023-12-16 19:05:19
+50,-13.02,-76.45,Sismo,"Magnitud: 3.6, Referencia: 10 km al NO de San Vicente De Cañete, Cañete - Lima",2023-12-17 17:28:19
+51,-15.02,-73.31,Sismo,"Magnitud: 3.7, Referencia: 16 km al N de Colta, Paucar Del Sara Sara - Ayacucho",2023-12-18 04:11:18
+52,-5.94,-80.23,Sismo,"Magnitud: 3.8, Referencia: 37 km al O de Olmos, Lambayeque - Lambayeque",2023-12-18 14:40:18
+53,-6.49,-80.83,Sismo,"Magnitud: 4.0, Referencia: 105 km al S de Sechura, Sechura - Piura",2023-12-18 19:42:18
+54,-17.17,-72.25,Sismo,"Magnitud: 3.9, Referencia: 30 km al SO de Mollendo, Islay - Arequipa",2023-12-18 22:31:18
+55,-15.81,-71.81,Sismo,"Magnitud: 3.6, Referencia: 19 km al S de Maca, Caylloma - Arequipa",2023-12-19 03:33:18
+56,-4.54,-76.94,Sismo,"Magnitud: 4.2, Referencia: 43 km al NO de Barranca, Datem del Marañón - Loreto",2023-12-19 14:23:19
+57,-4.89,-80.23,Sismo,"Magnitud: 4.4, Referencia: 24 km al N de Chulucanas, Morropon - Piura",2023-12-19 19:26:18
+58,-3.54,-79.73,Sismo,"Magnitud: 4.1, Referencia: 60 km al E de Zarumilla, Zarumilla - Tumbes",2023-12-19 20:59:18
+59,-15.68,-72.03,Sismo,"Magnitud: 3.5, Referencia: 9 km al SO de Cabanaconde, Caylloma - Arequipa",2023-12-20 02:01:19
+60,-14.09,-72.81,Sismo,"Magnitud: 4.5, Referencia: 11 km al O de Chuquibambilla, Grau - Apurimac",2023-12-20 10:47:19
+61,-16.11,-72.78,Sismo,"Magnitud: 6.0, Referencia: 31 km al O de Aplao, Castilla - Arequipa",2023-12-20 15:49:19
+62,-8.48,-74.6,Sismo,"Magnitud: 5.0, Referencia: 14 km al SO de Pucallpa, Coronel Portillo - Ucayali",2023-12-21 11:44:18
+63,-16.11,-72.74,Sismo,"Magnitud: 4.0, Referencia: 27 km al O de Aplao, Castilla - Arequipa",2023-12-21 16:46:19
+64,-15.81,-71.77,Sismo,"Magnitud: 3.5, Referencia: 19 km al S de Maca, Caylloma - Arequipa",2023-12-22 02:25:18
+65,-16.12,-72.89,Sismo,"Magnitud: 4.0, Referencia: 40 km al SO de Chuquibamba, Condesuyos - Arequipa",2023-12-22 11:37:18
+66,-3.92,-77.41,Sismo,"Magnitud: 4.0, Referencia: 89 km al NE de Sta. Maria De Nieva, Condorcanqui - Amazonas",2023-12-23 04:10:40
+67,-11.53,-78.25,Sismo,"Magnitud: 4.1, Referencia: 84 km al SO de Huacho, Huaura - Lima",2023-12-23 10:49:09
+68,-14.99,-72.7,Sismo,"Magnitud: 4.2, Referencia: 32 km al NE de Cotahuasi, La Union - Arequipa",2023-12-23 16:37:19
+69,-10.49,-74.55,Sismo,"Magnitud: 4.7, Referencia: 51 km al SE de Puerto Bermudez, Oxapampa - Pasco",2023-12-23 20:09:18
+70,-16.58,-71.62,Sismo,"Magnitud: 3.5, Referencia: 23 km al SO de Arequipa, Arequipa - Arequipa",2023-12-23 20:13:18
+71,-7.29,-76.9,Sismo,"Magnitud: 4.1, Referencia: 23 km al SO de Juanjui, Mariscal Caceres - San Martin",2023-12-24 01:15:18
+72,-15.79,-71.79,Sismo,"Magnitud: 3.4, Referencia: 17 km al S de Maca, Caylloma - Arequipa",2023-12-24 11:21:18
+73,-13.53,-72.46,Sismo,"Magnitud: 3.4, Referencia: 6 km al S de Limatambo, Anta - Cusco",2023-12-25 23:23:19
+74,-4.89,-80.76,Sismo,"Magnitud: 3.7, Referencia: 8 km al O de Sullana, Sullana - Piura",2023-12-26 04:25:18
+75,-11.97,-75.65,Sismo,"Magnitud: 4.3, Referencia: 28 km al SO de Jauja, Jauja - Junin",2023-12-26 11:23:18
+76,-9.65,-79.05,Sismo,"Magnitud: 4.0, Referencia: 75 km al SO de Samanco, Santa - Ancash",2023-12-27 14:24:18
+77,-3.55,-80.74,Sismo,"Magnitud: 4.1, Referencia: 16 km al NO de Zorritos, Contralmirante Villar - Tumbes",2023-12-28 03:19:19
+78,-11.22,-75.93,Sismo,"Magnitud: 3.7, Referencia: 9 km al SE de Junin, Junin - Junin",2023-12-28 08:21:19
+79,-11.8,-77.52,Sismo,"Magnitud: 4.4, Referencia: 38 km al O de Ancon, Lima - Lima",2023-12-29 14:56:18
+80,-8.32,-79.14,Sismo,"Magnitud: 4.3, Referencia: 23 km al SO de Salaverry, Trujillo - La Libertad",2023-12-29 19:57:18
+81,-16.78,-71.24,Sismo,"Magnitud: 3.4, Referencia: 7 km al O de La Capilla, General Sanchez Cerro - Moquegua",2023-12-30 03:12:18
+82,-13.08,-76.81,Sismo,"Magnitud: 3.9, Referencia: 47 km al O de San Vicente De Cañete, Cañete - Lima",2023-12-30 08:14:19
+83,-6.4,-76.93,Sismo,"Magnitud: 4.0, Referencia: 42 km al S de Moyobamba, Moyobamba - San Martin",2023-12-31 14:54:18
+84,-9.67,-75.63,Sismo,"Magnitud: 4.0, Referencia: 19 km al O de Codo Del Pozuzo, Puerto Inca - Huanuco",2023-12-31 17:13:38
+85,-10.69,-78.54,Sismo,"Magnitud: 4.2, Referencia: 81 km al SO de Huarmey, Huarmey - Ancash",2024-01-01 07:12:19
+86,-16.53,-71.63,Sismo,"Magnitud: 3.7, Referencia: 18 km al SO de Arequipa, Arequipa - Arequipa",2024-01-01 20:11:19
+87,-11.92,-77.74,Sismo,"Magnitud: 3.5, Referencia: 65 km al O de Ancon, Lima - Lima",2024-01-04 12:06:19
+88,-12.13,-77.45,Sismo,"Magnitud: 3.5, Referencia: 35 km al O de Provincia Constitucional del Callao , Callao - Lima",2024-01-04 18:53:19
+89,-5.83,-81.03,Sismo,"Magnitud: 4.8, Referencia: 39 km al SO de Sechura, Sechura - Piura",2024-01-04 17:08:19
+90,-12.14,-77.3,Sismo,"Magnitud: 4.0, Referencia: 20 km al SO de Provincia Constitucional del Callao , Callao - Lima",2024-01-04 18:56:19
+91,-15.57,-74.35,Sismo,"Magnitud: 4.5, Referencia: 21 km al NE de Yauca, Caraveli - Arequipa",2024-01-05 01:03:19
+92,-8.62,-74.53,Sismo,"Magnitud: 4.4, Referencia: 28 km al S de Pucallpa, Coronel Portillo - Ucayali",2024-01-05 07:36:19
+93,-11.79,-77.57,Sismo,"Magnitud: 3.7, Referencia: 44 km al O de Ancon, Lima - Lima",2024-01-05 17:39:19
+94,-14.65,-70.75,Sismo,"Magnitud: 4.4, Referencia: 22 km al N de Umachiri, Melgar - Puno",2024-01-06 10:36:47
+95,-18.35,-69.44,Sismo,"Magnitud: 5.2, Referencia: 87 km al SE de Calana, Tacna - Tacna",2024-01-07 08:41:19
+96,-3.69,-80.88,Sismo,"Magnitud: 4.4, Referencia: 25 km al O de Zorritos, Contralmirante Villar - Tumbes",2024-01-07 15:18:18
+97,-5.13,-79.98,Sismo,"Magnitud: 4.0, Referencia: 20 km al E de Chulucanas, Morropon - Piura",2024-01-08 04:27:18
+98,-9.87,-74.87,Sismo,"Magnitud: 3.8, Referencia: 48 km al N de Puerto Bermudez, Oxapampa - Pasco",2024-01-08 09:30:18
+99,-15.15,-73.32,Sismo,"Magnitud: 3.4, Referencia: 3 km al O de Colta, Paucar Del Sara Sara - Ayacucho",2024-01-08 13:58:19
+100,-10.19,-75.67,Sismo,"Magnitud: 4.1, Referencia: 16 km al SO de Pozuzo, Oxapampa - Pasco",2024-01-08 23:52:19
+101,-8.02,-79.88,Sismo,"Magnitud: 5.2, Referencia: 78 km al SO de San Pedro De Lloc, Pacasmayo - La Libertad",2024-01-09 04:54:18
+102,-5.54,-80.74,Sismo,"Magnitud: 4.0, Referencia: 9 km al E de Sechura, Sechura - Piura",2024-01-09 09:23:19
+103,-13.81,-74.23,Sismo,"Magnitud: 4.1, Referencia: 16 km al NE de Huanca Sancos, Sancos - Ayacucho",2024-01-09 14:25:19
+104,-11.79,-77.67,Sismo,"Magnitud: 3.5, Referencia: 55 km al O de Ancon, Lima - Lima",2024-01-09 18:27:55
+105,-14.37,-73.97,Sismo,"Magnitud: 4.1, Referencia: 32 km al SO de Soras, Sucre - Ayacucho",2024-01-10 00:45:18
+106,-10.96,-74.94,Sismo,"Magnitud: 4.2, Referencia: 41 km al E de La Merced, Chanchamayo - Junin",2024-01-10 09:25:19
+107,-15.8,-72.06,Sismo,"Magnitud: 4.0, Referencia: 9 km al SE de Huambo, Caylloma - Arequipa",2024-01-11 03:43:18
+108,-5.88,-76.7,Sismo,"Magnitud: 5.2, Referencia: 35 km al NE de Moyobamba, Moyobamba - San Martin",2024-01-11 00:03:19
+109,-16.61,-71.64,Sismo,"Magnitud: 3.5, Referencia: 27 km al SO de Arequipa, Arequipa - Arequipa",2024-01-11 20:48:19
+110,-15.0,-72.35,Sismo,"Magnitud: 4.0, Referencia: 54 km al N de Andagua, Castilla - Arequipa",2024-01-12 07:03:19
+111,-15.8,-71.77,Sismo,"Magnitud: 3.6, Referencia: 18 km al S de Maca, Caylloma - Arequipa",2024-01-12 12:05:18
+112,-17.05,-72.8,Sismo,"Magnitud: 5.7, Referencia: 49 km al S de Camana, Camana - Arequipa",2024-01-12 15:12:18
+113,-10.04,-75.12,Sismo,"Magnitud: 4.3, Referencia: 32 km al NO de Puerto Bermudez, Oxapampa - Pasco",2024-01-13 05:33:18
+114,-15.78,-71.75,Sismo,"Magnitud: 3.7, Referencia: 16 km al S de Maca, Caylloma - Arequipa",2024-01-14 02:06:18
+115,-12.5,-76.7,Sismo,"Magnitud: 3.5, Referencia: 4 km al E de Chilca, Cañete - Lima",2024-01-14 19:47:18
+116,-11.36,-77.96,Sismo,"Magnitud: 3.8, Referencia: 47 km al SO de Huacho, Huaura - Lima",2024-01-15 17:39:19
+117,-4.07,-77.66,Sismo,"Magnitud: 4.4, Referencia: 61 km al N de Sta. Maria De Nieva, Condorcanqui - Amazonas",2024-01-16 06:44:18
+118,-13.36,-74.63,Sismo,"Magnitud: 4.0, Referencia: 39 km al NO de Chuschi, Cangallo - Ayacucho",2024-01-16 14:51:19
+119,-15.5,-71.85,Sismo,"Magnitud: 4.5, Referencia: 12 km al N de Madrigal, Caylloma - Arequipa",2024-01-19 12:27:18
+120,-12.75,-76.97,Sismo,"Magnitud: 3.6, Referencia: 37 km al SO de Chilca, Cañete - Lima",2024-01-20 03:46:18
+121,-16.87,-72.23,Sismo,"Magnitud: 3.5, Referencia: 27 km al SE de Quilca, Camana - Arequipa",2024-01-20 20:13:19
+122,-7.27,-71.58,Sismo,"Magnitud: 6.5, Referencia: 294 km al N de Esperanza, Purus - Ucayali",2024-01-21 01:15:19
+123,-15.46,-70.59,Sismo,"Magnitud: 4.0, Referencia: 24 km al N de Santa Lucia, Lampa - Puno",2024-01-21 09:51:18
+124,-5.41,-77.71,Sismo,"Magnitud: 4.2, Referencia: 54 km al N de Jumbilla, Bongara - Amazonas",2024-01-22 17:28:19
+125,-16.08,-72.87,Sismo,"Magnitud: 4.0, Referencia: 36 km al SO de Chuquibamba, Condesuyos - Arequipa",2024-01-22 22:30:18
+126,-16.92,-69.91,Sismo,"Magnitud: 4.3, Referencia: 34 km al NO de Capaso, El Collao - Puno",2024-01-23 13:00:18
+127,-7.17,-80.01,Sismo,"Magnitud: 4.2, Referencia: 39 km al S de Pimentel, Chiclayo - Lambayeque",2024-01-23 18:02:18
+128,-14.67,-76.1,Sismo,"Magnitud: 4.9, Referencia: 78 km al SO de Ica, Ica - Ica",2024-01-23 22:25:19
+129,-18.22,-71.29,Sismo,"Magnitud: 4.0, Referencia: 65 km al S de Ilo, Ilo - Moquegua",2024-01-25 11:27:18
+130,-10.92,-73.97,Sismo,"Magnitud: 4.5, Referencia: 32 km al SO de Atalaya, Atalaya - Ucayali",2024-01-25 19:24:18
+131,-16.38,-74.04,Sismo,"Magnitud: 4.4, Referencia: 49 km al O de Atico, Caraveli - Arequipa",2024-01-27 10:15:16
+132,-12.52,-76.92,Sismo,"Magnitud: 3.5, Referencia: 20 km al O de Chilca, Cañete - Lima",2024-01-27 16:11:16
+133,-4.21,-80.41,Sismo,"Magnitud: 4.5, Referencia: 66 km al SE de Zorritos, Contralmirante Villar - Tumbes",2024-01-28 05:25:16
+134,-8.17,-71.26,Sismo,"Magnitud: 6.2, Referencia: 188 km al N de Esperanza, Purus - Ucayali",2024-01-28 09:44:08
+135,-15.78,-71.75,Sismo,"Magnitud: 3.6, Referencia: 16 km al S de Maca, Caylloma - Arequipa",2024-01-29 15:51:16
+136,-9.58,-78.69,Sismo,"Magnitud: 3.9, Referencia: 42 km al SO de Samanco, Santa - Ancash",2024-01-29 20:53:16
+137,-11.86,-76.86,Sismo,"Magnitud: 4.2, Referencia: 19 km al NO de Chosica, Lima - Lima",2024-01-30 01:10:16
+138,-8.49,-74.71,Sismo,"Magnitud: 4.5, Referencia: 24 km al SO de Pucallpa, Coronel Portillo - Ucayali",2024-01-30 17:51:16
+139,-3.05,-77.77,Sismo,"Magnitud: 4.1, Referencia: 153 km al O de Pastaza, Datem del Marañón - Loreto",2024-01-30 22:53:16
+140,-15.5,-71.64,Sismo,"Magnitud: 4.3, Referencia: 15 km al N de Chivay, Caylloma - Arequipa",2024-01-31 01:15:30
+141,-11.37,-73.39,Sismo,"Magnitud: 4.2, Referencia: 83 km al SE de Atalaya, Atalaya - Ucayali",2024-01-31 12:24:19
+142,-15.81,-71.85,Sismo,"Magnitud: 3.6, Referencia: 21 km al SO de Maca, Caylloma - Arequipa",2024-01-31 19:12:16
+143,-4.97,-78.21,Sismo,"Magnitud: 4.2, Referencia: 57 km al SO de Sta. Maria De Nieva, Condorcanqui - Amazonas",2024-02-01 00:14:18
+144,-4.3,-80.54,Sismo,"Magnitud: 3.7, Referencia: 59 km al E de Mancora, Talara - Piura",2024-02-01 11:05:16
+145,-18.3,-70.31,Sismo,"Magnitud: 3.9, Referencia: 33 km al S de Tacna, Tacna - Tacna",2024-02-01 12:00:16
+146,-16.71,-71.24,Sismo,"Magnitud: 4.0, Referencia: 8 km al NO de La Capilla, General Sanchez Cerro - Moquegua",2024-02-01 14:14:16
+147,-18.44,-69.98,Sismo,"Magnitud: 4.3, Referencia: 56 km al S de Calana, Tacna - Tacna",2024-02-02 05:40:16
+148,-11.15,-74.56,Sismo,"Magnitud: 4.5, Referencia: 14 km al NE de Satipo, Satipo - Junin",2024-02-02 13:35:16
+149,-11.21,-74.55,Sismo,"Magnitud: 3.9, Referencia: 11 km al NE de Satipo, Satipo - Junin",2024-02-02 18:37:16
+150,-4.05,-80.59,Sismo,"Magnitud: 4.0, Referencia: 43 km al S de Zorritos, Contralmirante Villar - Tumbes",2024-02-02 20:55:16
+151,-4.2,-77.74,Sismo,"Magnitud: 4.0, Referencia: 45 km al N de Sta. Maria De Nieva, Condorcanqui - Amazonas",2024-02-03 02:47:17
+152,-17.37,-72.64,Sismo,"Magnitud: 4.0, Referencia: 77 km al SO de Mollendo, Islay - Arequipa",2024-02-03 08:26:16
+153,-8.11,-80.1,Sismo,"Magnitud: 5.2, Referencia: 100 km al SO de San Pedro De Lloc, Pacasmayo - La Libertad",2024-02-03 23:36:16
+154,-19.67,-70.07,Sismo,"Magnitud: 5.0, Referencia: 186 km al S de Tacna, Tacna - Tacna",2024-02-04 04:38:16
+155,-10.94,-76.45,Sismo,"Magnitud: 4.3, Referencia: 36 km al SO de Cerro De Pasco, Pasco - Pasco",2024-02-04 09:12:16
+156,-16.28,-72.59,Sismo,"Magnitud: 4.1, Referencia: 26 km al SO de Aplao, Castilla - Arequipa",2024-02-04 16:37:16
+157,-17.38,-72.65,Sismo,"Magnitud: 4.0, Referencia: 78 km al SO de Mollendo, Islay - Arequipa",2024-02-04 20:21:19
+158,-11.9,-77.37,Sismo,"Magnitud: 3.4, Referencia: 27 km al SO de Ancon, Lima - Lima",2024-02-05 09:07:00
+159,-10.44,-75.18,Sismo,"Magnitud: 4.0, Referencia: 28 km al SO de Puerto Bermudez, Oxapampa - Pasco",2024-02-05 17:51:19
+160,-8.74,-74.35,Sismo,"Magnitud: 4.0, Referencia: 46 km al SE de Pucallpa, Coronel Portillo - Ucayali",2024-02-05 22:53:16
+161,-13.93,-76.08,Sismo,"Magnitud: 4.2, Referencia: 28 km al SE de Pisco, Pisco - Ica",2024-02-06 03:12:16
+162,-15.78,-71.74,Sismo,"Magnitud: 3.9, Referencia: 16 km al S de Maca, Caylloma - Arequipa",2024-02-06 09:27:16
+163,-12.61,-76.73,Sismo,"Magnitud: 3.6, Referencia: 11 km al S de Chilca, Cañete - Lima",2024-02-06 08:14:16
+164,-15.66,-74.56,Sismo,"Magnitud: 4.5, Referencia: 4 km al O de Yauca, Caraveli - Arequipa",2024-02-06 11:11:16
+165,-7.78,-80.26,Sismo,"Magnitud: 4.0, Referencia: 92 km al SO de San Pedro De Lloc, Pacasmayo - La Libertad",2024-02-07 01:17:16
+166,-15.83,-71.75,Sismo,"Magnitud: 4.0, Referencia: 21 km al S de Maca, Caylloma - Arequipa",2024-02-07 06:39:16
+167,-15.82,-71.74,Sismo,"Magnitud: 3.6, Referencia: 20 km al S de Maca, Caylloma - Arequipa",2024-02-07 06:19:16
+168,-12.5,-76.77,Sismo,"Magnitud: 3.5, Referencia: 3 km al O de Chilca, Cañete - Lima",2024-02-07 08:13:16
+169,-15.84,-71.75,Sismo,"Magnitud: 3.6, Referencia: 22 km al S de Maca, Caylloma - Arequipa",2024-02-08 10:06:16
+170,-6.49,-75.16,Sismo,"Magnitud: 4.0, Referencia: 80 km al N de Pampa Hermosa, Ucayali - Loreto",2024-02-09 18:31:16
+171,-16.12,-72.79,Sismo,"Magnitud: 4.0, Referencia: 33 km al O de Aplao, Castilla - Arequipa",2024-02-09 20:57:12
+172,-18.0,-73.25,Sismo,"Magnitud: 4.6, Referencia: 164 km al S de Camana, Camana - Arequipa",2024-02-09 22:23:21
+173,-14.16,-73.75,Sismo,"Magnitud: 5.0, Referencia: 12 km al SE de Soras, Sucre - Ayacucho",2024-02-10 03:29:16
+174,-11.01,-78.28,Sismo,"Magnitud: 3.8, Referencia: 63 km al O de Supe Puerto, Barranca - Lima",2024-02-10 10:47:16
+175,-12.97,-76.88,Sismo,"Magnitud: 3.7, Referencia: 45 km al SO de Mala, Cañete - Lima",2024-02-10 09:42:16
+176,-15.83,-75.42,Sismo,"Magnitud: 4.0, Referencia: 59 km al SO de Marcona, Nazca - Ica",2024-02-11 07:01:16
+177,-9.73,-78.64,Sismo,"Magnitud: 4.0, Referencia: 47 km al SO de Casma, Casma - Ancash",2024-02-11 18:26:16
+178,-8.85,-75.97,Sismo,"Magnitud: 4.5, Referencia: 18 km al NE de Aucayacu, Leoncio Prado - Huanuco",2024-02-11 23:28:16
+179,-8.36,-75.59,Sismo,"Magnitud: 4.2, Referencia: 48 km al O de Curimana, Padre Abad - Ucayali",2024-02-12 01:49:16
+180,-8.42,-75.59,Sismo,"Magnitud: 4.0, Referencia: 47 km al O de Curimana, Padre Abad - Ucayali",2024-02-12 06:53:16
+181,-8.53,-75.84,Sismo,"Magnitud: 4.0, Referencia: 55 km al NE de Aucayacu, Leoncio Prado - Huanuco",2024-02-12 06:52:16
+182,-16.27,-72.07,Sismo,"Magnitud: 4.0, Referencia: 26 km al NO de Vitor, Arequipa - Arequipa",2024-02-12 22:28:42
+183,-15.75,-71.79,Sismo,"Magnitud: 3.4, Referencia: 12 km al S de Maca, Caylloma - Arequipa",2024-02-13 12:43:18
+184,-11.78,-77.46,Sismo,"Magnitud: 3.5, Referencia: 32 km al O de Ancon, Lima - Lima",2024-02-13 20:36:16
+185,-3.63,-79.62,Sismo,"Magnitud: 3.9, Referencia: 74 km al E de Zarumilla, Zarumilla - Tumbes",2024-02-14 02:55:16
+186,-11.79,-77.83,Sismo,"Magnitud: 4.0, Referencia: 72 km al O de Ancon, Lima - Lima",2024-02-14 18:38:16
+187,-11.56,-77.52,Sismo,"Magnitud: 5.4, Referencia: 36 km al O de Huaral, Huaral - Lima",2024-02-15 21:01:16
+188,-4.13,-77.16,Sismo,"Magnitud: 4.3, Referencia: 93 km al NE de Sta. Maria De Nieva, Condorcanqui - Amazonas",2024-02-16 02:02:16
+189,-19.47,-70.91,Sismo,"Magnitud: 4.8, Referencia: 177 km al SO de Tacna, Tacna - Tacna",2024-02-16 11:38:16
+190,-8.27,-74.25,Sismo,"Magnitud: 4.4, Referencia: 33 km al E de Pucallpa, Coronel Portillo - Ucayali",2024-02-16 07:04:16
+191,-16.81,-71.57,Sismo,"Magnitud: 3.5, Referencia: 42 km al O de La Capilla, General Sanchez Cerro - Moquegua",2024-02-16 19:06:16
+192,-8.58,-75.74,Sismo,"Magnitud: 4.2, Referencia: 57 km al NE de Aucayacu, Leoncio Prado - Huanuco",2024-02-17 00:09:16
+193,-4.84,-78.71,Sismo,"Magnitud: 4.0, Referencia: 45 km al NE de San Ignacio, San Ignacio - Cajamarca",2024-02-17 03:54:16
+194,-7.9,-74.67,Sismo,"Magnitud: 4.2, Referencia: 54 km al N de Pucallpa, Coronel Portillo - Ucayali",2024-02-17 08:56:16
+195,-14.9,-71.87,Sismo,"Magnitud: 4.1, Referencia: 44 km al SO de Huayhuahuasi, Espinar - Cusco",2024-02-19 00:04:16
+196,-8.24,-77.87,Sismo,"Magnitud: 4.2, Referencia: 23 km al NE de Cabana, Pallasca - Ancash",2024-02-19 05:19:16
+197,-6.44,-76.02,Sismo,"Magnitud: 4.1, Referencia: 41 km al E de Tarapoto, San Martin - San Martin",2024-02-19 05:07:16
+198,-13.17,-75.23,Sismo,"Magnitud: 5.0, Referencia: 15 km al NO de Castrovirreyna, Castrovirreyna - Huancavelica",2024-02-19 08:04:16
+199,-6.43,-76.28,Sismo,"Magnitud: 5.2, Referencia: 16 km al NE de Tarapoto, San Martin - San Martin",2024-02-19 11:32:16
+200,-9.44,-79.14,Sismo,"Magnitud: 5.5, Referencia: 73 km al SO de Chimbote, Santa - Ancash",2024-02-19 16:30:16
+201,-14.93,-71.91,Sismo,"Magnitud: 4.1, Referencia: 50 km al SO de Huayhuahuasi, Espinar - Cusco",2024-02-22 09:31:16
+202,-15.34,-71.0,Sismo,"Magnitud: 3.7, Referencia: 21 km al SO de Ocuviri, Lampa - Puno",2024-02-22 06:31:16
+203,-11.43,-73.34,Sismo,"Magnitud: 4.0, Referencia: 91 km al SE de Atalaya, Atalaya - Ucayali",2024-02-22 16:22:16
+204,-16.76,-71.19,Sismo,"Magnitud: 3.8, Referencia: 1 km al O de La Capilla, General Sanchez Cerro - Moquegua",2024-02-22 22:54:16
+205,-3.69,-78.33,Sismo,"Magnitud: 4.0, Referencia: 111 km al NO de Sta. Maria De Nieva, Condorcanqui - Amazonas",2024-02-23 04:02:16
+206,-17.74,-69.78,Sismo,"Magnitud: 4.3, Referencia: 40 km al SE de Tarata, Tarata - Tacna",2024-02-23 09:49:16
+207,-8.38,-75.58,Sismo,"Magnitud: 4.5, Referencia: 47 km al O de Curimana, Padre Abad - Ucayali",2024-02-23 14:51:16
+208,-4.06,-79.92,Sismo,"Magnitud: 4.0, Referencia: 69 km al N de Ayabaca, Ayabaca - Piura",2024-02-23 21:14:16
+209,-10.85,-74.75,Sismo,"Magnitud: 3.8, Referencia: 46 km al N de Satipo, Satipo - Junin",2024-02-24 02:29:16
+210,-15.09,-73.51,Sismo,"Magnitud: 4.5, Referencia: 25 km al O de Colta, Paucar Del Sara Sara - Ayacucho",2024-02-24 12:29:16
+211,-10.5,-76.2,Sismo,"Magnitud: 4.1, Referencia: 21 km al N de Cerro De Pasco, Pasco - Pasco",2024-02-25 02:10:17
+212,-15.8,-71.78,Sismo,"Magnitud: 4.1, Referencia: 18 km al S de Maca, Caylloma - Arequipa",2024-02-26 01:49:16
+213,-13.15,-75.17,Sismo,"Magnitud: 4.1, Referencia: 16 km al N de Castrovirreyna, Castrovirreyna - Huancavelica",2024-02-27 02:44:16
+214,-11.42,-73.32,Sismo,"Magnitud: 4.0, Referencia: 91 km al SE de Atalaya, Atalaya - Ucayali",2024-02-28 08:45:16
+215,-11.21,-75.9,Sismo,"Magnitud: 3.7, Referencia: 11 km al SE de Junin, Junin - Junin",2024-02-28 13:47:16
+216,-15.81,-71.77,Sismo,"Magnitud: 3.5, Referencia: 19 km al S de Maca, Caylloma - Arequipa",2024-02-29 01:13:16
+217,-15.64,-74.54,Sismo,"Magnitud: 4.1, Referencia: 3 km al NO de Yauca, Caraveli - Arequipa",2024-02-29 09:21:16
+218,-16.78,-71.33,Sismo,"Magnitud: 3.5, Referencia: 16 km al O de La Capilla, General Sanchez Cerro - Moquegua",2024-02-29 14:23:16
+219,-10.19,-80.32,Sismo,"Magnitud: 4.3, Referencia: 225 km al SO de Samanco, Santa - Ancash",2024-02-29 14:52:37
+220,-10.97,-75.0,Sismo,"Magnitud: 3.8, Referencia: 34 km al E de La Merced, Chanchamayo - Junin",2024-02-29 20:03:16
+221,-14.23,-75.86,Sismo,"Magnitud: 4.3, Referencia: 23 km al SO de Ica, Ica - Ica",2024-03-01 05:57:16
+222,-16.84,-71.14,Sismo,"Magnitud: 4.0, Referencia: 10 km al SE de La Capilla, General Sanchez Cerro - Moquegua",2024-03-01 07:17:16
+223,-10.02,-74.73,Sismo,"Magnitud: 4.4, Referencia: 40 km al NE de Puerto Bermudez, Oxapampa - Pasco",2024-03-02 22:53:16
+224,-12.07,-76.83,Sismo,"Magnitud: 4.5, Referencia: 21 km al SO de Chosica, Lima - Lima",2024-03-04 15:06:16
+225,-19.26,-69.64,Sismo,"Magnitud: 4.5, Referencia: 153 km al SE de Tacna, Tacna - Tacna",2024-03-04 22:10:16
+226,-8.6,-74.82,Sismo,"Magnitud: 4.4, Referencia: 41 km al SE de Curimana, Padre Abad - Ucayali",2024-03-05 09:17:16
+227,-12.32,-77.11,Sismo,"Magnitud: 3.6, Referencia: 29 km al S de Provincia Constitucional del Callao , Callao - Lima",2024-03-06 14:38:17
+228,-12.32,-77.11,Sismo,"Magnitud: 3.6, Referencia: 29 km al S de Provincia Constitucional del Callao , Callao - Lima",2024-03-06 18:02:32
+229,-12.71,-75.87,Sismo,"Magnitud: 4.0, Referencia: 29 km al S de Yauyos, Yauyos - Lima",2024-03-07 03:35:16
+230,-13.6,-76.29,Sismo,"Magnitud: 5.2, Referencia: 16 km al NO de Pisco, Pisco - Ica",2024-03-07 16:38:16
+231,-14.47,-73.56,Sismo,"Magnitud: 4.1, Referencia: 10 km al N de Pampamarca, Parinacochas - Ayacucho",2024-03-08 03:21:16
+232,-14.68,-73.52,Sismo,"Magnitud: 4.7, Referencia: 14 km al S de Pampamarca, Parinacochas - Ayacucho",2024-03-08 08:24:16
+233,-16.75,-71.31,Sismo,"Magnitud: 3.6, Referencia: 14 km al O de La Capilla, General Sanchez Cerro - Moquegua",2024-03-09 10:15:16
+234,-14.54,-72.28,Sismo,"Magnitud: 4.3, Referencia: 24 km al SO de Santo Tomas, Chumbivilcas - Cusco",2024-03-09 15:17:16
+235,-17.6,-73.31,Sismo,"Magnitud: 4.0, Referencia: 126 km al SO de Camana, Camana - Arequipa",2024-03-10 01:47:16
+236,-13.6,-76.15,Sismo,"Magnitud: 4.7, Referencia: 13 km al NE de Pisco, Pisco - Ica",2024-03-11 06:36:16
+237,-16.35,-74.24,Sismo,"Magnitud: 4.5, Referencia: 56 km al S de Chala, Caraveli - Arequipa",2024-03-12 21:28:16
+238,-11.89,-74.55,Sismo,"Magnitud: 4.6, Referencia: 36 km al SE de Andamarca, Concepcion - Junin",2024-03-13 03:15:16
+239,-12.14,-74.74,Sismo,"Magnitud: 4.0, Referencia: 25 km al NO de Campo Armiño, Tayacaja - Huancavelica",2024-03-13 03:37:16
+240,-8.33,-80.21,Sismo,"Magnitud: 4.0, Referencia: 127 km al SO de San Pedro De Lloc, Pacasmayo - La Libertad",2024-03-13 04:33:16
+241,-15.14,-73.31,Sismo,"Magnitud: 4.4, Referencia: 3 km al NO de Colta, Paucar Del Sara Sara - Ayacucho",2024-03-13 02:58:16
+242,-18.73,-69.66,Sismo,"Magnitud: 5.0, Referencia: 100 km al SE de Calana, Tacna - Tacna",2024-03-13 09:36:16
+243,-15.75,-71.68,Sismo,"Magnitud: 3.5, Referencia: 16 km al SO de Chivay, Caylloma - Arequipa",2024-03-13 21:36:16
+244,-8.65,-74.5,Sismo,"Magnitud: 4.0, Referencia: 31 km al S de Pucallpa, Coronel Portillo - Ucayali",2024-03-15 11:29:16
+245,-5.55,-77.12,Sismo,"Magnitud: 3.8, Referencia: 47 km al NE de Nueva Cajamarca, Rioja - San Martin",2024-03-15 22:28:16
+246,-17.88,-70.47,Sismo,"Magnitud: 3.9, Referencia: 26 km al NO de Alto De La Alianza, Tacna - Tacna",2024-03-16 05:19:16
+247,-15.66,-74.33,Sismo,"Magnitud: 3.9, Referencia: 20 km al E de Yauca, Caraveli - Arequipa",2024-03-17 02:27:16
+248,-5.61,-80.9,Sismo,"Magnitud: 4.0, Referencia: 11 km al SO de Sechura, Sechura - Piura",2024-03-17 00:54:16
+249,-5.43,-77.32,Sismo,"Magnitud: 4.5, Referencia: 56 km al N de Nueva Cajamarca, Rioja - San Martin",2024-03-17 06:04:16
+250,-15.22,-71.0,Sismo,"Magnitud: 3.5, Referencia: 10 km al SO de Ocuviri, Lampa - Puno",2024-03-17 11:07:16
+251,-16.23,-75.06,Sismo,"Magnitud: 4.5, Referencia: 77 km al S de Lomas, Caraveli - Arequipa",2024-03-17 15:37:16
+252,-9.36,-79.19,Sismo,"Magnitud: 3.8, Referencia: 73 km al SO de Chimbote, Santa - Ancash",2024-03-17 20:39:16
+253,-10.72,-78.53,Sismo,"Magnitud: 5.0, Referencia: 83 km al SO de Huarmey, Huarmey - Ancash",2024-03-18 06:52:16
+254,-4.86,-76.09,Sismo,"Magnitud: 4.3, Referencia: 61 km al NO de Lagunas, Alto Amazonas - Loreto",2024-03-18 23:50:16
+255,-14.02,-74.62,Sismo,"Magnitud: 4.0, Referencia: 33 km al O de Sancos, Huanca Sancos - Ayacucho",2024-03-20 02:20:16
+256,-5.3,-81.9,Sismo,"Magnitud: 4.1, Referencia: 90 km al O de Paita, Paita - Piura",2024-03-20 08:21:16
+257,-15.01,-75.91,Sismo,"Magnitud: 4.4, Referencia: 88 km al NO de Marcona, Nazca - Ica",2024-03-22 10:23:16
+258,-16.2,-70.55,Sismo,"Magnitud: 3.5, Referencia: 7 km al S de Ichuña, General Sanchez Cerro - Moquegua",2024-03-22 15:25:16
+259,-15.62,-71.54,Sismo,"Magnitud: 3.6, Referencia: 7 km al E de Chivay, Caylloma - Arequipa",2024-03-23 07:49:16
+260,-8.4,-75.02,Sismo,"Magnitud: 4.2, Referencia: 16 km al E de Curimana, Padre Abad - Ucayali",2024-03-23 13:42:16
+261,-12.56,-76.59,Sismo,"Magnitud: 4.0, Referencia: 7 km al SO de Calango, Cañete - Lima",2024-03-23 18:44:16
+262,-6.0,-79.42,Sismo,"Magnitud: 4.7, Referencia: 53 km al E de Olmos, Lambayeque - Lambayeque",2024-03-23 22:43:16
+263,-12.74,-76.96,Sismo,"Magnitud: 3.7, Referencia: 35 km al SO de Chilca, Cañete - Lima",2024-03-24 03:45:16
+264,-5.54,-79.77,Sismo,"Magnitud: 4.1, Referencia: 49 km al SO de Huancabamba, Huancabamba - Piura",2024-03-24 05:56:16
+265,-4.26,-80.66,Sismo,"Magnitud: 3.7, Referencia: 45 km al E de Mancora, Talara - Piura",2024-03-24 14:59:16
+266,-3.97,-79.94,Sismo,"Magnitud: 4.0, Referencia: 64 km al SE de Zarumilla, Zarumilla - Tumbes",2024-03-25 15:49:16
+267,-5.74,-78.73,Sismo,"Magnitud: 4.2, Referencia: 10 km al SE de Jaen, Jaen - Cajamarca",2024-03-25 20:51:16
+268,-15.7,-71.88,Sismo,"Magnitud: 3.6, Referencia: 10 km al SO de Pinchollo, Caylloma - Arequipa",2024-03-26 03:20:16
+269,-15.59,-71.56,Sismo,"Magnitud: 3.7, Referencia: 6 km al NE de Chivay, Caylloma - Arequipa",2024-03-26 09:05:16
+270,-5.77,-78.69,Sismo,"Magnitud: 3.6, Referencia: 15 km al SE de Jaen, Jaen - Cajamarca",2024-03-26 09:17:16
+271,-5.73,-78.71,Sismo,"Magnitud: 3.9, Referencia: 12 km al E de Jaen, Jaen - Cajamarca",2024-03-26 12:23:16
+272,-15.98,-74.01,Sismo,"Magnitud: 4.2, Referencia: 29 km al SE de Chala, Caraveli - Arequipa",2024-03-26 08:22:16
+273,-16.83,-71.57,Sismo,"Magnitud: 3.7, Referencia: 49 km al S de Arequipa, Arequipa - Arequipa",2024-03-26 20:18:16
+274,-15.74,-72.05,Sismo,"Magnitud: 3.6, Referencia: 7 km al E de Huambo, Caylloma - Arequipa",2024-03-27 03:21:16
+275,-7.22,-74.56,Sismo,"Magnitud: 4.7, Referencia: 52 km al E de Contamana, Ucayali - Loreto",2024-03-27 11:39:16
+276,-8.77,-72.84,Sismo,"Magnitud: 5.1, Referencia: 191 km al E de Pucallpa, Coronel Portillo - Ucayali",2024-03-27 16:41:16
+277,-8.77,-72.84,Sismo,"Magnitud: 5.1, Referencia: 191 km al E de Pucallpa, Coronel Portillo - Ucayali",2024-03-27 16:41:16
+278,-8.85,-74.82,Sismo,"Magnitud: 4.1, Referencia: 59 km al SE de Curimana, Padre Abad - Ucayali",2024-03-27 20:24:16
+279,-7.79,-74.48,Sismo,"Magnitud: 5.3, Referencia: 65 km al N de Pucallpa, Coronel Portillo - Ucayali",2024-03-28 04:13:16
+280,-17.76,-69.39,Sismo,"Magnitud: 4.0, Referencia: 74 km al SE de Capaso, El Collao - Puno",2024-03-28 11:47:16
+281,-8.89,-75.65,Sismo,"Magnitud: 5.1, Referencia: 23 km al NO de Aguaytia, Padre Abad - Ucayali",2024-03-28 11:13:16
+282,-8.96,-75.63,Sismo,"Magnitud: 4.0, Referencia: 17 km al NO de Aguaytia, Padre Abad - Ucayali",2024-03-28 16:14:16
+283,-8.54,-76.01,Sismo,"Magnitud: 4.1, Referencia: 47 km al N de Aucayacu, Leoncio Prado - Huanuco",2024-03-28 20:12:16
+284,-6.77,-79.91,Sismo,"Magnitud: 3.8, Referencia: 7 km al O de Chiclayo, Chiclayo - Lambayeque",2024-03-29 01:15:16
+285,-18.24,-70.51,Sismo,"Magnitud: 4.0, Referencia: 38 km al SO de Tacna, Tacna - Tacna",2024-03-29 17:35:16
+286,-5.81,-78.55,Sismo,"Magnitud: 3.5, Referencia: 14 km al SO de Bagua Grande, Utcubamba - Amazonas",2024-03-29 22:37:16
+287,-5.75,-78.72,Sismo,"Magnitud: 4.0, Referencia: 11 km al SE de Jaen, Jaen - Cajamarca",2024-03-30 03:37:16
+288,-12.71,-76.87,Sismo,"Magnitud: 3.6, Referencia: 26 km al SO de Chilca, Cañete - Lima",2024-03-30 12:29:16
+289,-3.67,-80.9,Sismo,"Magnitud: 4.0, Referencia: 27 km al O de Zorritos, Contralmirante Villar - Tumbes",2024-03-30 09:04:16
+290,-11.52,-77.81,Sismo,"Magnitud: 3.9, Referencia: 51 km al SO de Huacho, Huaura - Lima",2024-03-30 14:07:16
+291,-10.44,-75.64,Sismo,"Magnitud: 4.1, Referencia: 14 km al SO de Huancabamba, Oxapampa - Pasco",2024-03-31 05:15:16
+292,-16.16,-74.41,Sismo,"Magnitud: 4.0, Referencia: 39 km al SO de Chala, Caraveli - Arequipa",2024-04-01 07:51:16
+293,-10.5,-75.66,Sismo,"Magnitud: 4.4, Referencia: 20 km al SO de Huancabamba, Oxapampa - Pasco",2024-04-01 13:33:16
+294,-8.61,-76.19,Sismo,"Magnitud: 4.0, Referencia: 35 km al SE de Uchiza, Tocache - San Martin",2024-04-01 20:06:16
+295,-15.65,-71.91,Sismo,"Magnitud: 3.7, Referencia: 8 km al SE de Cabanaconde, Caylloma - Arequipa",2024-04-02 03:14:16
+296,-12.61,-76.81,Sismo,"Magnitud: 4.0, Referencia: 13 km al SO de Chilca, Cañete - Lima",2024-04-02 08:44:16
+297,-15.64,-72.06,Sismo,"Magnitud: 3.7, Referencia: 9 km al O de Cabanaconde, Caylloma - Arequipa",2024-04-02 16:19:16
+298,-17.33,-71.77,Sismo,"Magnitud: 3.8, Referencia: 18 km al S de Punta De Bombon, Islay - Arequipa",2024-04-02 21:21:16
+299,-10.46,-75.64,Sismo,"Magnitud: 5.0, Referencia: 15 km al SO de Huancabamba, Oxapampa - Pasco",2024-04-03 03:40:16
+300,-10.46,-75.64,Sismo,"Magnitud: 5.0, Referencia: 15 km al SO de Huancabamba, Oxapampa - Pasco",2024-04-03 03:40:16
+301,-9.01,-78.5,Sismo,"Magnitud: 3.5, Referencia: 12 km al NE de Chimbote, Santa - Ancash",2024-04-03 20:34:16
+302,-11.54,-77.58,Sismo,"Magnitud: 4.0, Referencia: 42 km al O de Huaral, Huaral - Lima",2024-04-04 23:19:16
+303,-7.57,-74.77,Sismo,"Magnitud: 4.0, Referencia: 36 km al SE de Contamana, Ucayali - Loreto",2024-04-05 12:17:16
+304,-16.69,-69.44,Sismo,"Magnitud: 4.0, Referencia: 31 km al E de Conduriri, El Collao - Puno",2024-04-05 20:13:46
+305,-10.82,-75.52,Sismo,"Magnitud: 3.6, Referencia: 18 km al SE de Santa Isabel, Pasco - Pasco",2024-04-06 03:43:16
+306,-17.2,-70.14,Sismo,"Magnitud: 4.0, Referencia: 14 km al NE de Candarave, Candarave - Tacna",2024-04-06 09:18:16
+307,-11.82,-75.03,Sismo,"Magnitud: 4.0, Referencia: 24 km al SO de Andamarca, Concepcion - Junin",2024-04-06 20:09:37
+308,-3.96,-81.24,Sismo,"Magnitud: 4.8, Referencia: 28 km al NO de Mancora, Talara - Piura",2024-04-09 03:15:16
+309,-17.69,-71.32,Sismo,"Magnitud: 3.8, Referencia: 6 km al S de Ilo, Ilo - Moquegua",2024-04-09 08:18:16
+310,-14.59,-72.04,Sismo,"Magnitud: 4.5, Referencia: 16 km al S de Santo Tomas, Chumbivilcas - Cusco",2024-04-09 16:45:16
+311,-15.68,-74.21,Sismo,"Magnitud: 4.5, Referencia: 19 km al N de Chala, Caraveli - Arequipa",2024-04-09 22:27:16
+312,-12.85,-76.75,Sismo,"Magnitud: 4.6, Referencia: 26 km al SO de Mala, Cañete - Lima",2024-04-10 05:23:16
+313,-17.44,-68.9,Sismo,"Magnitud: 5.1, Referencia: 94 km al E de Capaso, El Collao - Puno",2024-04-10 15:43:16
+314,-17.44,-68.9,Sismo,"Magnitud: 5.1, Referencia: 94 km al E de Capaso, El Collao - Puno",2024-04-10 15:43:16
+315,-17.44,-68.9,Sismo,"Magnitud: 5.1, Referencia: 94 km al E de Capaso, El Collao - Puno",2024-04-10 20:53:16
+316,-17.44,-68.9,Sismo,"Magnitud: 5.1, Referencia: 94 km al E de Capaso, El Collao - Puno",2024-04-10 21:34:16
+317,-16.58,-73.82,Sismo,"Magnitud: 4.0, Referencia: 46 km al SO de Atico, Caraveli - Arequipa",2024-04-10 20:46:16
+318,-18.11,-71.66,Sismo,"Magnitud: 4.0, Referencia: 62 km al SO de Ilo, Ilo - Moquegua",2024-04-10 22:48:23
+319,-8.31,-77.72,Sismo,"Magnitud: 4.0, Referencia: 28 km al N de Sihuas, Sihuas - Ancash",2024-04-11 14:07:16
+320,-7.34,-74.92,Sismo,"Magnitud: 4.2, Referencia: 10 km al E de Contamana, Ucayali - Loreto",2024-04-12 00:34:16
+321,-7.98,-76.39,Sismo,"Magnitud: 4.1, Referencia: 26 km al NE de Tocache Nuevo, Tocache - San Martin",2024-04-12 16:16:16
+322,-11.9,-76.58,Sismo,"Magnitud: 3.7, Referencia: 9 km al E de Ricardo Palma, Huarochiri - Lima",2024-04-13 09:33:16
+323,-18.4,-71.31,Sismo,"Magnitud: 4.0, Referencia: 85 km al S de Ilo, Ilo - Moquegua",2024-04-14 10:25:16
+324,-11.29,-76.68,Sismo,"Magnitud: 3.6, Referencia: 21 km al NO de Canta, Canta - Lima",2024-04-14 07:09:16
+325,-12.24,-77.37,Sismo,"Magnitud: 4.8, Referencia: 32 km al SO de Provincia Constitucional del Callao , Callao - Lima",2024-04-14 14:03:16
+326,-6.41,-80.27,Sismo,"Magnitud: 4.2, Referencia: 53 km al NO de Lambayeque, Lambayeque - Lambayeque",2024-04-14 19:05:16
+327,-6.11,-76.92,Sismo,"Magnitud: 3.7, Referencia: 11 km al SE de Moyobamba, Moyobamba - San Martin",2024-04-15 00:01:16
+328,-14.5,-76.17,Sismo,"Magnitud: 4.5, Referencia: 68 km al SO de Ica, Ica - Ica",2024-04-15 05:03:16
+329,-5.56,-77.34,Sismo,"Magnitud: 3.3, Referencia: 41 km al N de Nueva Cajamarca, Rioja - San Martin",2024-04-15 22:16:16
+330,-5.56,-77.34,Sismo,"Magnitud: 4.0, Referencia: 41 km al N de Nueva Cajamarca, Rioja - San Martin",2024-04-16 03:19:16
+331,-18.57,-70.65,Sismo,"Magnitud: 4.0, Referencia: 75 km al SO de Tacna, Tacna - Tacna",2024-04-16 05:43:16
+332,-16.8,-71.53,Sismo,"Magnitud: 3.7, Referencia: 38 km al O de La Capilla, General Sanchez Cerro - Moquegua",2024-04-16 12:30:16
+333,-8.73,-74.6,Sismo,"Magnitud: 4.3, Referencia: 41 km al S de Pucallpa, Coronel Portillo - Ucayali",2024-04-16 17:32:16
+334,-10.78,-74.65,Sismo,"Magnitud: 3.6, Referencia: 52 km al N de Satipo, Satipo - Junin",2024-04-16 22:51:16
+335,-13.6,-71.74,Sismo,"Magnitud: 4.0, Referencia: 11 km al NO de Andahuaylillas, Quispicanchi - Cusco",2024-04-17 03:54:16
+336,-9.46,-75.81,Sismo,"Magnitud: 3.8, Referencia: 28 km al SE de Tingo Maria, Leoncio Prado - Huanuco",2024-04-19 03:41:16
+337,-12.14,-74.77,Sismo,"Magnitud: 3.7, Referencia: 27 km al NO de Campo Armiño, Tayacaja - Huancavelica",2024-04-20 01:11:16
+338,-8.96,-75.97,Sismo,"Magnitud: 4.0, Referencia: 14 km al E de Aucayacu, Leoncio Prado - Huanuco",2024-04-20 14:56:16
+339,-5.18,-81.0,Sismo,"Magnitud: 4.1, Referencia: 17 km al SE de Paita, Paita - Piura",2024-04-21 14:26:16
+340,-8.68,-75.67,Sismo,"Magnitud: 4.1, Referencia: 44 km al NO de Aguaytia, Padre Abad - Ucayali",2024-04-21 19:28:16
+341,-14.95,-72.89,Sismo,"Magnitud: 4.0, Referencia: 29 km al N de Cotahuasi, La Union - Arequipa",2024-04-22 03:24:16
+342,-3.77,-81.68,Sismo,"Magnitud: 4.6, Referencia: 80 km al NO de Mancora, Talara - Piura",2024-04-22 00:09:16
+343,-12.4,-75.31,Sismo,"Magnitud: 3.6, Referencia: 8 km al SO de Huasicancha, Huancayo - Junin",2024-04-22 12:03:16
+344,-15.63,-71.84,Sismo,"Magnitud: 3.6, Referencia: 2 km al S de Pinchollo, Caylloma - Arequipa",2024-04-22 17:36:16
+345,-18.03,-71.49,Sismo,"Magnitud: 4.1, Referencia: 46 km al S de Ilo, Ilo - Moquegua",2024-04-22 22:38:16
+346,-15.91,-74.16,Sismo,"Magnitud: 4.0, Referencia: 11 km al SE de Chala, Caraveli - Arequipa",2024-04-23 00:48:16
+347,-16.1,-74.05,Sismo,"Magnitud: 4.2, Referencia: 34 km al SE de Chala, Caraveli - Arequipa",2024-04-23 12:33:16
+348,-4.59,-81.94,Sismo,"Magnitud: 4.1, Referencia: 74 km al O de Talara, Talara - Piura",2024-04-23 17:18:36
+349,-5.81,-76.86,Sismo,"Magnitud: 3.8, Referencia: 28 km al NE de Moyobamba, Moyobamba - San Martin",2024-04-24 15:23:17
+350,-13.58,-71.74,Sismo,"Magnitud: 3.7, Referencia: 13 km al NO de Andahuaylillas, Quispicanchi - Cusco",2024-04-24 23:23:16
+351,-7.67,-74.63,Sismo,"Magnitud: 4.0, Referencia: 55 km al SE de Contamana, Ucayali - Loreto",2024-04-25 08:43:16
+352,-13.58,-71.74,Sismo,"Magnitud: 3.5, Referencia: 13 km al NO de Andahuaylillas, Quispicanchi - Cusco",2024-04-25 07:51:16
+353,-4.04,-80.07,Sismo,"Magnitud: 3.8, Referencia: 64 km al S de Zarumilla, Zarumilla - Tumbes",2024-04-25 22:36:16
+354,-18.53,-71.2,Sismo,"Magnitud: 4.0, Referencia: 100 km al S de Ilo, Ilo - Moquegua",2024-04-25 23:07:44
+355,-14.91,-71.76,Sismo,"Magnitud: 4.2, Referencia: 36 km al SO de Huayhuahuasi, Espinar - Cusco",2024-04-26 05:15:17
+356,-13.44,-71.94,Sismo,"Magnitud: 3.5, Referencia: 9 km al NE de Cusco, Cusco - Cusco",2024-04-28 02:22:17
+357,-9.33,-79.25,Sismo,"Magnitud: 4.0, Referencia: 78 km al O de Chimbote, Santa - Ancash",2024-04-28 20:02:16
+358,-16.17,-73.85,Sismo,"Magnitud: 3.8, Referencia: 25 km al O de Atico, Caraveli - Arequipa",2024-04-29 06:57:16
+359,-19.27,-69.54,Sismo,"Magnitud: 4.0, Referencia: 159 km al SE de Calana, Tacna - Tacna",2024-04-29 14:59:16
+360,-13.07,-77.38,Sismo,"Magnitud: 3.7, Referencia: 93 km al SO de Chilca, Cañete - Lima",2024-04-30 05:07:16
+361,-13.55,-71.66,Sismo,"Magnitud: 4.4, Referencia: 13 km al N de Andahuaylillas, Quispicanchi - Cusco",2024-04-30 10:19:16
+362,-13.55,-71.66,Sismo,"Magnitud: 4.4, Referencia: 13 km al N de Andahuaylillas, Quispicanchi - Cusco",2024-04-30 10:19:16
+363,-13.7,-71.69,Sismo,"Magnitud: 3.4, Referencia: 4 km al SO de Andahuaylillas, Quispicanchi - Cusco",2024-04-30 17:09:16
+364,-13.69,-71.71,Sismo,"Magnitud: 3.3, Referencia: 5 km al SO de Andahuaylillas, Quispicanchi - Cusco",2024-04-30 15:23:16
+365,-13.64,-71.69,Sismo,"Magnitud: 3.5, Referencia: 5 km al E de Lucre, Quispicanchi - Cusco",2024-04-30 21:38:16
+366,-10.34,-75.44,Sismo,"Magnitud: 4.1, Referencia: 10 km al NE de Huancabamba, Oxapampa - Pasco",2024-05-01 11:07:16
+367,-12.51,-76.76,Sismo,"Magnitud: 3.6, Referencia: 2 km al O de Chilca, Cañete - Lima",2024-05-01 17:09:16
+368,-13.64,-72.65,Sismo,"Magnitud: 4.8, Referencia: 25 km al E de Abancay, Abancay - Apurimac",2024-05-02 02:27:16
+369,-13.59,-72.63,Sismo,"Magnitud: 3.5, Referencia: 28 km al E de Abancay, Abancay - Apurimac",2024-05-02 08:16:16
+370,-13.59,-72.63,Sismo,"Magnitud: 3.5, Referencia: 28 km al E de Abancay, Abancay - Apurimac",2024-05-02 08:23:16
+371,-12.5,-76.81,Sismo,"Magnitud: 3.6, Referencia: 8 km al O de Chilca, Cañete - Lima",2024-05-02 08:43:16
+372,-14.91,-75.32,Sismo,"Magnitud: 3.8, Referencia: 42 km al O de Nazca, Nazca - Ica",2024-05-02 07:29:16
+373,-12.58,-76.92,Sismo,"Magnitud: 3.5, Referencia: 21 km al O de Chilca, Cañete - Lima",2024-05-02 23:18:16
+374,-9.27,-75.66,Sismo,"Magnitud: 4.0, Referencia: 31 km al SO de Aguaytia, Padre Abad - Ucayali",2024-05-03 06:12:16
+375,-12.51,-76.75,Sismo,"Magnitud: 3.5, Referencia: 1 km al O de Chilca, Cañete - Lima",2024-05-03 11:53:16
+376,-3.76,-80.32,Sismo,"Magnitud: 4.2, Referencia: 26 km al SE de Tumbes, Tumbes - Tumbes",2024-05-03 19:27:16
+377,-9.16,-75.65,Sismo,"Magnitud: 4.0, Referencia: 21 km al SO de Aguaytia, Padre Abad - Ucayali",2024-05-03 16:55:16
+378,-9.17,-75.64,Sismo,"Magnitud: 4.2, Referencia: 21 km al SO de Aguaytia, Padre Abad - Ucayali",2024-05-03 19:46:16
+379,-4.54,-76.63,Sismo,"Magnitud: 5.2, Referencia: 33 km al N de Barranca, Datem del Marañón - Loreto",2024-05-04 04:08:16
+380,-15.68,-70.32,Sismo,"Magnitud: 4.2, Referencia: 29 km al SO de Juliaca, San Roman - Puno",2024-05-04 08:35:19
+381,-12.56,-76.84,Sismo,"Magnitud: 3.5, Referencia: 12 km al SO de Chilca, Cañete - Lima",2024-05-05 06:39:16
+382,-12.6,-76.91,Sismo,"Magnitud: 3.5, Referencia: 21 km al SO de Chilca, Cañete - Lima",2024-05-05 08:14:16
+383,-11.99,-77.56,Sismo,"Magnitud: 3.8, Referencia: 46 km al O de Provincia Constitucional del Callao , Callao - Lima",2024-05-05 03:24:16
+384,-8.77,-76.28,Sismo,"Magnitud: 4.0, Referencia: 28 km al NO de Aucayacu, Leoncio Prado - Huanuco",2024-05-05 09:25:16
+385,-13.63,-71.67,Sismo,"Magnitud: 4.7, Referencia: 7 km al E de Lucre, Quispicanchi - Cusco",2024-05-05 09:47:16
+386,-13.63,-71.67,Sismo,"Magnitud: 4.7, Referencia: 7 km al E de Lucre, Quispicanchi - Cusco",2024-05-05 09:48:16
+387,-10.34,-75.46,Sismo,"Magnitud: 4.2, Referencia: 9 km al NE de Huancabamba, Oxapampa - Pasco",2024-05-05 11:14:16
+388,-13.69,-71.69,Sismo,"Magnitud: 3.5, Referencia: 3 km al SO de Andahuaylillas, Quispicanchi - Cusco",2024-05-05 12:28:16
+389,-13.64,-76.66,Sismo,"Magnitud: 4.1, Referencia: 50 km al O de Pisco, Pisco - Ica",2024-05-05 08:26:16
+390,-5.82,-75.2,Sismo,"Magnitud: 4.7, Referencia: 85 km al SE de Lagunas, Alto Amazonas - Loreto",2024-05-05 14:38:16
+391,-12.2,-77.87,Sismo,"Magnitud: 4.6, Referencia: 81 km al O de Provincia Constitucional del Callao , Callao - Lima",2024-05-05 14:43:16
+392,-12.58,-76.93,Sismo,"Magnitud: 3.8, Referencia: 22 km al O de Chilca, Cañete - Lima",2024-05-05 13:28:16
+393,-12.44,-76.58,Sismo,"Magnitud: 3.5, Referencia: 10 km al NO de Calango, Cañete - Lima",2024-05-06 01:54:16
+394,-15.62,-71.54,Sismo,"Magnitud: 3.6, Referencia: 7 km al E de Chivay, Caylloma - Arequipa",2024-05-06 01:44:16
+395,-3.51,-77.54,Sismo,"Magnitud: 4.2, Referencia: 124 km al N de Sta. Maria De Nieva, Condorcanqui - Amazonas",2024-05-06 10:20:16
+396,-10.74,-74.92,Sismo,"Magnitud: 4.5, Referencia: 40 km al E de Villa Rica, Oxapampa - Pasco",2024-05-07 08:27:16
+397,-10.84,-73.7,Sismo,"Magnitud: 4.2, Referencia: 15 km al SE de Atalaya, Atalaya - Ucayali",2024-05-07 21:53:16
+398,-4.4,-81.79,Sismo,"Magnitud: 4.6, Referencia: 61 km al O de Talara, Talara - Piura",2024-05-07 22:29:50
+399,-11.14,-78.05,Sismo,"Magnitud: 3.7, Referencia: 48 km al O de Huacho, Huaura - Lima",2024-05-07 22:40:22
+400,-15.35,-75.37,Sismo,"Magnitud: 4.1, Referencia: 21 km al O de Marcona, Nazca - Ica",2024-05-08 06:26:16
+401,-9.81,-80.02,Sismo,"Magnitud: 4.1, Referencia: 177 km al SO de Chimbote, Santa - Ancash",2024-05-08 06:47:50
+402,-17.85,-69.83,Sismo,"Magnitud: 4.2, Referencia: 36 km al E de Calana, Tacna - Tacna",2024-05-09 13:50:16
+403,-15.7,-73.93,Sismo,"Magnitud: 4.2, Referencia: 37 km al NE de Chala, Caraveli - Arequipa",2024-05-10 01:41:16
+404,-8.18,-75.21,Sismo,"Magnitud: 4.1, Referencia: 29 km al N de Curimana, Padre Abad - Ucayali",2024-05-10 06:43:16
+405,-8.81,-75.66,Sismo,"Magnitud: 5.0, Referencia: 31 km al NO de Aguaytia, Padre Abad - Ucayali",2024-05-10 12:42:16
+406,-17.29,-71.88,Sismo,"Magnitud: 3.9, Referencia: 16 km al SO de Punta De Bombon, Islay - Arequipa",2024-05-13 22:44:16
+407,-4.51,-77.68,Sismo,"Magnitud: 4.2, Referencia: 22 km al E de Sta. Maria De Nieva, Condorcanqui - Amazonas",2024-05-14 03:49:16
+408,-2.63,-77.87,Sismo,"Magnitud: 4.5, Referencia: 166 km al O de Pastaza, Datem del Marañón - Loreto",2024-05-14 16:50:16
+409,-14.5,-76.32,Sismo,"Magnitud: 4.4, Referencia: 80 km al SO de Ica, Ica - Ica",2024-05-16 02:47:16
+410,-11.39,-76.34,Sismo,"Magnitud: 3.7, Referencia: 29 km al E de Canta, Canta - Lima",2024-05-16 08:23:16
+411,-15.23,-76.7,Sismo,"Magnitud: 4.0, Referencia: 165 km al O de Marcona, Nazca - Ica",2024-05-16 08:41:16
+412,-14.27,-76.18,Sismo,"Magnitud: 4.6, Referencia: 54 km al SO de Ica, Ica - Ica",2024-05-16 10:09:16
+413,-14.54,-76.33,Sismo,"Magnitud: 4.3, Referencia: 84 km al SO de Ica, Ica - Ica",2024-05-16 10:16:16
+414,-14.51,-76.28,Sismo,"Magnitud: 5.6, Referencia: 78 km al SO de Ica, Ica - Ica",2024-05-16 10:21:16
+415,-14.49,-76.31,Sismo,"Magnitud: 4.0, Referencia: 79 km al SO de Ica, Ica - Ica",2024-05-16 07:49:16
+416,-11.42,-76.34,Sismo,"Magnitud: 3.6, Referencia: 29 km al E de Canta, Canta - Lima",2024-05-16 12:56:16
+417,-9.38,-79.04,Sismo,"Magnitud: 4.0, Referencia: 60 km al SO de Chimbote, Santa - Ancash",2024-05-16 19:19:16
+418,-15.71,-71.88,Sismo,"Magnitud: 3.6, Referencia: 11 km al SO de Pinchollo, Caylloma - Arequipa",2024-05-16 17:58:16
+419,-14.33,-76.25,Sismo,"Magnitud: 4.9, Referencia: 64 km al SO de Ica, Ica - Ica",2024-05-18 11:55:16
+420,-14.48,-73.63,Sismo,"Magnitud: 4.6, Referencia: 12 km al NO de Pampamarca, Parinacochas - Ayacucho",2024-05-20 17:32:16
+421,-13.23,-76.85,Sismo,"Magnitud: 3.8, Referencia: 54 km al O de San Vicente De Cañete, Cañete - Lima",2024-05-20 22:49:16
+422,-15.02,-70.38,Sismo,"Magnitud: 5.0, Referencia: 24 km al SO de Azangaro, Azangaro - Puno",2024-05-21 05:04:16
+423,-3.74,-79.89,Sismo,"Magnitud: 5.5, Referencia: 50 km al SE de Zarumilla, Zarumilla - Tumbes",2024-05-21 03:51:16
+424,-9.2,-77.51,Sismo,"Magnitud: 4.0, Referencia: 17 km al NE de Carhuaz, Carhuaz - Ancash",2024-05-22 03:08:16
+425,-13.53,-76.2,Sismo,"Magnitud: 3.6, Referencia: 8 km al S de Tambo De Mora, Chincha - Ica",2024-05-22 16:45:16
+426,-15.49,-70.26,Sismo,"Magnitud: 4.0, Referencia: 14 km al O de Juliaca, San Roman - Puno",2024-05-22 16:45:16
+427,-7.37,-79.97,Sismo,"Magnitud: 4.0, Referencia: 52 km al O de San Pedro De Lloc, Pacasmayo - La Libertad",2024-05-23 00:57:16
+428,-12.59,-77.17,Sismo,"Magnitud: 3.7, Referencia: 48 km al O de Chilca, Cañete - Lima",2024-05-23 01:26:35
+429,-14.93,-74.73,Sismo,"Magnitud: 4.0, Referencia: 26 km al SE de Nazca, Nazca - Ica",2024-05-24 05:36:16
+430,-9.91,-74.82,Sismo,"Magnitud: 5.0, Referencia: 45 km al N de Puerto Bermudez, Oxapampa - Pasco",2024-05-24 10:38:16
+431,-15.62,-74.2,Sismo,"Magnitud: 3.5, Referencia: 26 km al N de Chala, Caraveli - Arequipa",2024-05-26 13:12:16
+432,-14.42,-76.34,Sismo,"Magnitud: 4.2, Referencia: 77 km al SO de Ica, Ica - Ica",2024-05-28 14:54:16
+433,-18.57,-71.57,Sismo,"Magnitud: 4.1, Referencia: 106 km al S de Ilo, Ilo - Moquegua",2024-05-29 19:43:16
+434,-13.24,-74.41,Sismo,"Magnitud: 4.0, Referencia: 22 km al SO de Ayacucho, Huamanga - Ayacucho",2024-06-01 14:26:16
+435,-9.04,-79.17,Sismo,"Magnitud: 4.0, Referencia: 64 km al O de Chimbote, Santa - Ancash",2024-06-02 20:39:16
+436,-9.04,-79.17,Sismo,"Magnitud: 4, Referencia: 64 km al O de Chimbote, Santa - Ancash",2024-06-04 02:12:16
+437,-9.04,-79.17,Sismo,"Magnitud: 4, Referencia: 64 km al O de Chimbote, Santa - Ancash",2024-06-04 03:02:16
+438,-9.04,-79.17,Sismo,"Magnitud: 4, Referencia: 64 km al O de Chimbote, Santa - Ancash",2024-06-04 03:05:16
+439,-8.84,-75.9,Sismo,"Magnitud: 4, Referencia: 25 km al NE de Aucayacu, Leoncio Prado - Huanuco",2024-06-04 04:56:16
+440,-11.89,-75.98,Sismo,"Magnitud: 3.6, Referencia: 37 km al E de Tamboraque, Huarochiri - Lima",2024-06-04 04:56:16
+441,-13.58,-77.03,Sismo,"Magnitud: 3.8, Referencia: 90 km al SO de San Vicente De Cañete, Cañete - Lima",2024-06-04 15:53:16
+442,-4.893368665469423,-77.89002666546942,conflicto social,"Nombre: UGEL Condorcanqui, Departamento: Amazonas, Provincia: Condorcanqui, Distrito: Nieva, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+443,-9.923487916168076,-77.33260441616807,conflicto social,"Nombre: Colegio de Alto Rendimiento (COAR) Áncash, Departamento: Áncash, Provincia: Recuay, Distrito: Cátac, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+444,-13.58686777585962,-72.87643777585961,conflicto social,"Nombre: Estudiantes de la Universidad Nacional Micaela Bastidas (UNAMBA), Departamento: Apurímac, Provincia: Abancay, Distrito: Tamburco, Tipo: Otros asuntos",2024-05-22 21:21:18
+445,-13.7643397657548,-73.3400687657548,conflicto social,"Nombre: I.E. Juan Espinoza Medrano – UGEL Andahuaylas, Departamento: Apurímac, Provincia: Andahuaylas, Distrito: Andahuaylas, Tipo: Otros asuntos",2024-05-22 21:21:18
+446,-13.164796946720042,-74.22448734672004,conflicto social,"Nombre: Federación Universitaria de la UNSCH, Departamento: Ayacucho, Provincia: Huamanga, Distrito: nan, Tipo: Otros asuntos",2024-05-22 21:21:18
+447,-13.217707387387236,-72.49341238738724,conflicto social,"Nombre: Empresa Consettur, Departamento: Cusco, Provincia: Urubamba, Distrito: Machupicchu, Tipo: Otros asuntos",2024-05-22 21:21:18
+448,-12.818928539745777,-74.82171853974577,conflicto social,"Nombre: Asfaltado de carretera Huancavelica – Yauli – Pucapampa (tramo I), Departamento: Huancavelica, Provincia: Huancavelica, Distrito: Yauli, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+449,-9.95355219135728,-76.18298119135727,conflicto social,"Nombre: Mercado de Paucarbamba, Departamento: Huánuco, Provincia: Huánuco, Distrito: Amarilis, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+450,-9.921044220730364,-76.24136372073036,conflicto social,"Nombre: Agricultores de Huánuco, Departamento: Huánuco, Provincia: nan, Distrito: nan, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+451,-11.158996760019432,-75.99343486001943,conflicto social,"Nombre: Río Cunas - Proyecto Yanacocha, Departamento: Junín, Provincia: nan, Distrito: nan, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+452,-6.770246586761333,-79.85515748676133,conflicto social,"Nombre: Pucalá, Departamento: Lambayeque, Provincia: Chiclayo, Distrito: Pucala, Tipo: Otros asuntos",2024-05-22 21:21:18
+453,-4.829186935962489,-76.55494343596249,conflicto social,"Nombre: CORMI - UGEL, Departamento: Loreto, Provincia: Datem del Marañón, Distrito: nan, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+454,-8.750547541707084,-74.7097225417071,conflicto social,"Nombre: Honoria y Campoverde - Bosques Silvestres S.A.C., Departamento: Huánuco, Provincia: Puerto Inca, Distrito: Honoria, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+455,-5.093562956460884,-81.09593135646088,conflicto social,"Nombre: La Tortuga - Olympic, Departamento: Piura, Provincia: Paita, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+456,-5.081667267732859,-80.92222926773286,conflicto social,"Nombre: La Huaca - Agroaurora, Departamento: Piura, Provincia: Paita, Distrito: La Huaca, Tipo: Socioambiental",2024-05-22 21:21:18
+457,-5.078598480687017,-80.67999748068702,conflicto social,"Nombre: Federación Nacional Unificada de Trabajadores del Sector Salud (FENUTSSA) región Piura, Departamento: Piura, Provincia: Piura, Distrito: Piura , Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+458,-5.129991864988472,-80.17166686498847,conflicto social,"Nombre: Junta de Usuarios del Sector Hidráulico del Valle Alto Piura, Departamento: Piura, Provincia: Morropón, Distrito: Chulucanas, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+459,-4.68524552701448,-79.61924202701447,conflicto social,"Nombre: Organizaciones sociales de Ayabaca, Departamento: Piura, Provincia: Ayabaca, Distrito: Ayabaca, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+460,-4.720741414203632,-80.17370541420362,conflicto social,"Nombre: Las Lomas, Departamento: Piura, Provincia: Piura, Distrito: Las Lomas, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+461,-15.898112851431808,-70.0520953514318,conflicto social,"Nombre: Colegio Huáscar, Departamento: Puno, Provincia: Puno, Distrito: Puno, Tipo: Otros asuntos",2024-05-22 21:21:18
+462,-13.53572339818938,-70.38631989818938,conflicto social,"Nombre: Agricutores de hoja de coca de Puno, Departamento: Puno, Provincia: Carabaya, Distrito: San Gabán, Tipo: Cultivo ilegal de hoja de coca",2024-05-22 21:21:18
+463,-15.44441548801624,-70.18242898801623,conflicto social,"Nombre: Hospital materno infantil de Juliaca, Departamento: Puno, Provincia: San Román, Distrito: Juliaca, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+464,-7.223359657321381,-76.78791415732137,conflicto social,"Nombre: Sindicato de trabajadores técnicos asistenciales de salud (SITPASS), Departamento: San Martín, Provincia: Mariscal Cáceres, Distrito: Juanjui, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+465,-3.927652175123287,-80.53169417512329,conflicto social,"Nombre: San Jacinto - Presa Laminadora de Higuerón, Departamento: Tumbes, Provincia: Tumbes, Distrito: San Jacinto, Tipo: Socioambiental",2024-05-22 21:21:18
+466,-12.400720427363307,-74.86857062736331,conflicto social,"Nombre: Población de Roble – Movistar, Departamento: Huancavelica, Provincia: Tayacaja, Distrito: Roble, Tipo: Otros asuntos",2024-05-22 21:21:18
+467,-12.840227978764672,-75.12737547876468,conflicto social,"Nombre: Estudiantes de la Universidad Nacional de Huancavelica (UNH), Departamento: Huancavelica, Provincia: Huancavelica, Distrito: Huancavelica, Tipo: Otros asuntos",2024-05-22 21:21:18
+468,-9.92206083483711,-76.24238033483711,conflicto social,"Nombre: Organizaciones sociales y sindicales de Huánuco, Departamento: Huánuco, Provincia: nan, Distrito: nan, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+469,-4.232851970779657,-74.21831167077967,conflicto social,"Nombre: FEDEAGRAAA-GORE Loreto, Departamento: Loreto, Provincia: Loreto, Distrito: Yurimaguas, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+470,-5.009339818153368,-79.35606181815338,conflicto social,"Nombre: Río Blanco (ex Majaz), Departamento: Piura, Provincia: Huancabamba, Distrito: El Carmen de la Frontera, Tipo: Socioambiental",2024-05-22 21:21:18
+471,-5.3637708679465455,-80.59706936794655,conflicto social,"Nombre: Damnificados Cura Mori, Departamento: Piura, Provincia: Piura, Distrito: Cura Mori, Tipo: Asuntos de gobierno regional",2024-05-22 21:21:18
+472,-14.178438320437929,-72.31213682043791,conflicto social,"Nombre: CC Carmen Alto - Minera Las Bambas, Departamento: Apurímac, Provincia: Cotabambas, Distrito: Challhuahuacho, Tipo: Socioambiental",2024-05-22 21:21:18
+473,-14.178909299939864,-72.31260779993985,conflicto social,"Nombre: CC Chila - Las Bambas, Departamento: Apurímac, Provincia: Cotabambas, Distrito: Challhuahuacho, Tipo: Socioambiental",2024-05-22 21:21:18
+474,-14.178210761392544,-72.31190926139253,conflicto social,"Nombre: CC Chuicuni - Las Bambas, Departamento: Apurímac, Provincia: Cotabambas, Distrito: Challhuahuacho, Tipo: Socioambiental",2024-05-22 21:21:18
+475,-13.923103336020798,-72.3925553360208,conflicto social,"Nombre: CC Huancuire - Minera Las Bambas, Departamento: Apurímac, Provincia: Cotabambas, Distrito: Coyllurqui, Tipo: Socioambiental",2024-05-22 21:21:18
+476,-14.13598558524862,-72.17961858524862,conflicto social,"Nombre: Mara - corredor minero, Departamento: Apurímac, Provincia: Cotabambas, Distrito: Mara, Tipo: Socioambiental",2024-05-22 21:21:18
+477,-14.178175904304048,-72.31187440430404,conflicto social,"Nombre: CC Fuerabamba - Minera Las Bambas, Departamento: Apurímac, Provincia: Cotabambas, Distrito: Challhuahuacho, Tipo: Socioambiental",2024-05-22 21:21:18
+478,-13.755804712225396,-72.3623267122254,conflicto social,"Nombre: Cotabambas - Minera Las Bambas (Antes Xstrata), Departamento: Apurímac, Provincia: Cotabambas, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+479,-7.134561106557706,-78.65516460655772,conflicto social,"Nombre: Chetilla - Colpayoc, Departamento: Cajamarca, Provincia: Cajamarca, Distrito: Chetilla, Tipo: Socioambiental",2024-05-22 21:21:18
+480,-7.081746722412943,-78.43446622241294,conflicto social,"Nombre: Tres Tingos – Quinua Totora - Minera Yanacocha, Departamento: Cajamarca, Provincia: Cajamarca, Distrito: Los Baños del Inca, Tipo: Socioambiental",2024-05-22 21:21:18
+481,-6.763506513148827,-78.60654571314883,conflicto social,"Nombre: Hualgayoc - Pasivos ambientales, Departamento: Cajamarca, Provincia: Hualgayoc, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+482,-6.760937001297594,-78.60742350129759,conflicto social,"Nombre: Hualgayoc - Gold Fields La Cima, Departamento: Cajamarca, Provincia: Hualgayoc, Distrito: Hualgayoc, Tipo: Socioambiental",2024-05-22 21:21:18
+483,-7.788739100003905,-77.59588680000391,conflicto social,"Nombre: Ronda Los Alisos - Compañía Minera La Poderosa, Departamento: La Libertad, Provincia: Pataz, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+484,-8.14565955929714,-78.17089485929715,conflicto social,"Nombre: Rondas campesinas de La Libertad, Departamento: La Libertad, Provincia: Santiago de Chuco, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+485,-14.274456170850094,-72.2126486708501,conflicto social,"Nombre: Haquira - Anabi (Utunsa), Departamento: Apurímac, Provincia: Cotabambas, Distrito: Haquira, Tipo: Socioambiental",2024-05-22 21:21:18
+486,-14.228956200163251,-73.08445370016327,conflicto social,"Nombre: Tiaparo - Tapayrihua - SPCC (Los Chancas), Departamento: Apurímac, Provincia: Aymaraes, Distrito: Pocohuanca, Tipo: Socioambiental",2024-05-22 21:21:18
+487,-6.689849739518278,-78.71122323951828,conflicto social,"Nombre: Chugur – Anta Norte S.A., Departamento: Cajamarca, Provincia: Hualgayoc, Distrito: Chugur, Tipo: Socioambiental",2024-05-22 21:21:18
+488,-6.943193092682675,-78.30517209268267,conflicto social,"Nombre: Proyecto minero Conga, Departamento: Cajamarca, Provincia: Celendín, Distrito: Sorochuco, Tipo: Socioambiental",2024-05-22 21:21:18
+489,-7.825840824762335,-78.03299082476234,conflicto social,"Nombre: Caserío Shiracmaca - Summa Gold, Departamento: La Libertad, Provincia: Sánchez Carrión, Distrito: Huamachuco, Tipo: Socioambiental",2024-05-22 21:21:18
+490,-8.186861118252844,-78.08967861825285,conflicto social,"Nombre: Santa Cruz de Chuca - Fresnillo Perú, Departamento: La Libertad, Provincia: Santiago de Chuco, Distrito: Santa Cruz de Chuca, Tipo: Socioambiental",2024-05-22 21:21:18
+491,-15.422555383594814,-72.06914538359483,conflicto social,"Nombre: Empresas “ECOSAMIN” y “CHOCO QORIWAYRA” - mineros informales, Departamento: Arequipa, Provincia: Castilla, Distrito: Choco, Tipo: Socioambiental",2024-05-22 21:21:18
+492,-16.07061889297741,-73.5491698929774,conflicto social,"Nombre: Mineros Informales - Intigold, Departamento: Arequipa, Provincia: Caravelí, Distrito: Atico, Tipo: Socioambiental",2024-05-22 21:21:18
+493,-16.900939200519936,-71.59852420051993,conflicto social,"Nombre: Tía María - Islay, Departamento: Arequipa, Provincia: Islay, Distrito: Cocachacra, Tipo: Socioambiental",2024-05-22 21:21:18
+494,-12.830887578623324,-74.14502107862332,conflicto social,"Nombre: Huanta – pequeña minería, Departamento: Ayacucho, Provincia: Huanta, Distrito: Huanta, Tipo: Socioambiental",2024-05-22 21:21:18
+495,-14.993054971728316,-73.35759647172831,conflicto social,"Nombre: Anexo Huancute - Cía minera Ares, Departamento: Ayacucho, Provincia: Parinacochas, Distrito: San Francisco de Ravacayco, Tipo: Socioambiental",2024-05-22 21:21:18
+496,-15.050587471437172,-73.29657847143717,conflicto social,"Nombre: CC  Huallhua - Cía minera Ares , Departamento: Ayacucho, Provincia: Paucar del Sara Sara, Distrito: San Javier de Alpabamba, Tipo: Socioambiental",2024-05-22 21:21:18
+497,-13.012163524373069,-73.65989002437307,conflicto social,"Nombre: Chiquintirca - TGP, Departamento: Ayacucho, Provincia: La Mar, Distrito: Anco, Tipo: Socioambiental",2024-05-22 21:21:18
+498,-13.9207914141863,-74.3351016141863,conflicto social,"Nombre: FREDASUR - Catalina Huanca, Departamento: Ayacucho, Provincia: Huanca Sancos, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+499,-14.541032990849734,-71.86118649084973,conflicto social,"Nombre: Velille - Las Bambas, Departamento: Cusco, Provincia: Chumbivilcas, Distrito: Velille, Tipo: Socioambiental",2024-05-22 21:21:18
+500,-14.76750272972055,-71.66831422972055,conflicto social,"Nombre: Comunidades Coporaque - Las Bambas, Departamento: Cusco, Provincia: Espinar, Distrito: Coporaque, Tipo: Socioambiental",2024-05-22 21:21:18
+501,-13.570157250894416,-71.97363175089441,conflicto social,"Nombre: Botadero Haquira (II), Departamento: Cusco, Provincia: Cusco, Distrito: Santiago, Tipo: Socioambiental",2024-05-22 21:21:18
+502,-14.767615027428905,-71.66842652742889,conflicto social,"Nombre: CC Urinsaya - Minera Las Bambas, Departamento: Cusco, Provincia: Espinar, Distrito: Coporaque, Tipo: Socioambiental",2024-05-22 21:21:18
+503,-14.369658814201731,-72.20623331420174,conflicto social,"Nombre: CC Pumallaqta, CC Quiñota, CC Ccollana, CC Hatta Pallpa Pallpa  - Minera Anabi, Departamento: Cusco, Provincia: Chumbivilcas, Distrito: Quiñota, Tipo: Socioambiental",2024-05-22 21:21:18
+504,-12.86350706745514,-72.69126886745514,conflicto social,"Nombre: CN Camaná - TGP, Departamento: Cusco, Provincia: La Convención, Distrito: Megantoni, Tipo: Socioambiental",2024-05-22 21:21:18
+505,-14.244907232546572,-72.01470723254657,conflicto social,"Nombre: 14 CC.CC. Chumbivilcas - Minera Las Bambas, Departamento: Cusco, Provincia: Chumbivilcas, Distrito: Colquemarca, Tipo: Socioambiental",2024-05-22 21:21:18
+506,-14.944794650833044,-71.13244565083305,conflicto social,"Nombre: 10 CC Pallpata - Antapaccay, Departamento: Cusco, Provincia: Espinar, Distrito: Pallpata, Tipo: Socioambiental",2024-05-22 21:21:18
+507,-14.914152758724946,-71.35198975872495,conflicto social,"Nombre: 13 CC Espinar - Antapaccay, Departamento: Cusco, Provincia: Espinar, Distrito: Espinar, Tipo: Socioambiental",2024-05-22 21:21:18
+508,-14.448272874390048,-72.08005987439005,conflicto social,"Nombre: Chumbivilcas - Minera Las Bambas (II), Departamento: Cusco, Provincia: Chumbivilcas, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+509,-13.531208283907144,-71.96281908390715,conflicto social,"Nombre: Paruro - Minera Las Bambas, Departamento: Cusco, Provincia: Paruro, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+510,-14.790294325973742,-71.41283482597375,conflicto social,"Nombre: Espinar - Antapaccay (ex Glencore Xstrata), Departamento: Cusco, Provincia: Espinar, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+511,-16.20258633089741,-70.50071933089741,conflicto social,"Nombre: Comunidades de Ichuña y Yunga - Cia Minera Buenaventura, Departamento: Moquegua, Provincia: General Sánchez Cerro, Distrito: Ichuña, Tipo: Socioambiental",2024-05-22 21:21:18
+512,-16.97994597879818,-70.74185047879818,conflicto social,"Nombre: CC Tumilaca - Southern Perú Copper Corporation, Departamento: Moquegua, Provincia: Mariscal Nieto, Distrito: Torata, Tipo: Socioambiental",2024-05-22 21:21:18
+513,-16.979096423855488,-70.7410009238555,conflicto social,"Nombre: Tumilaca - Anglo American Quellaveco, Departamento: Moquegua, Provincia: Mariscal Nieto, Distrito: Torata, Tipo: Socioambiental",2024-05-22 21:21:18
+514,-16.44536392065735,-70.53663092065736,conflicto social,"Nombre: Contaminación del río Coralaque, Departamento: Moquegua, Provincia: General Sánchez Cerro, Distrito: Chojata, Tipo: Socioambiental",2024-05-22 21:21:18
+515,-17.668010676072328,-71.34673587607233,conflicto social,"Nombre: Ilo - Petroperú, Departamento: Moquegua, Provincia: Ilo, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+516,-15.8442731234419,-73.11015412344192,conflicto social,"Nombre: Mineros informales Río Grande - Arequipa, Departamento: Arequipa, Provincia: Condesuyos, Distrito: Río Grande, Tipo: Socioambiental",2024-05-22 21:21:18
+517,-16.979777834818996,-70.741682334819,conflicto social,"Nombre: Torata - SPCC, Departamento: Moquegua, Provincia: Mariscal Nieto, Distrito: Torata, Tipo: Socioambiental",2024-05-22 21:21:18
+518,-13.66340956858697,-73.37852216858697,conflicto social,"Nombre: Huancabamba - Cceuñahuran, Departamento: Apurímac, Provincia: Andahuaylas, Distrito: José María Arguedas, Tipo: Comunal",2024-05-22 21:21:18
+519,-14.36238885668314,-72.79291885668313,conflicto social,"Nombre: Comunidades de Huaquirca, Sabaino y Virundo, Departamento: Apurímac, Provincia: Antabamba, Distrito: Huaquirca, Tipo: Comunal",2024-05-22 21:21:18
+520,-13.89850000602721,-72.21707200602722,conflicto social,"Nombre: Pumamarca - Asacasi, Departamento: Apurímac, Provincia: Cotabambas, Distrito: Tambobamba, Tipo: Comunal",2024-05-22 21:21:18
+521,-13.89907289546349,-72.2176448954635,conflicto social,"Nombre: Chaccaro - Occaccahua, Departamento: Apurímac, Provincia: Cotabambas, Distrito: Tambobamba, Tipo: Comunal",2024-05-22 21:21:18
+522,-13.012021596074252,-73.65974809607425,conflicto social,"Nombre: CC Anchihuay - CC Chiquintirca, Departamento: Ayacucho, Provincia: La Mar, Distrito: Anco, Tipo: Comunal",2024-05-22 21:21:18
+523,-13.64820139807804,-73.88523839807804,conflicto social,"Nombre: Santa Rosa de Huancapuquio - Pomacocha, Departamento: Ayacucho, Provincia: Vilcas Huamán, Distrito: Vilcas Huamán, Tipo: Comunal",2024-05-22 21:21:18
+524,-13.38766657976208,-71.80945107976208,conflicto social,"Nombre: CC Viacha - CC Coya Qosqo, Departamento: Cusco, Provincia: Calca, Distrito: Pisac, Tipo: Comunal",2024-05-22 21:21:18
+525,-9.919399788899772,-76.23971928889976,conflicto social,"Nombre: Chinchao  - Pillao, Departamento: Huánuco, Provincia: Huánuco, Distrito: San Pablo de Pillao, Tipo: Comunal",2024-05-22 21:21:18
+526,-11.613745911678286,-75.14158691167829,conflicto social,"Nombre: Cochas - San Francisco de Macon, Departamento: Junín, Provincia: Concepción, Distrito: Cochas, Tipo: Comunal",2024-05-22 21:21:18
+527,-6.631945233115856,-79.47014623311587,conflicto social,"Nombre: Chaparrí, Departamento: Lambayeque, Provincia: Chiclayo, Distrito: Chongoyape , Tipo: Comunal",2024-05-22 21:21:18
+528,-5.566415102898519,-80.82192220105317,conflicto social,"Nombre: Comunidad San Martín de Sechura, Departamento: Piura, Provincia: Sechura, Distrito: Sechura, Tipo: Comunal",2024-05-22 21:21:18
+529,-13.665480656781474,-69.91877165678147,conflicto social,"Nombre: Coasa – Limbani, Departamento: Puno, Provincia: Carabaya, Distrito: Coasa, Tipo: Demarcación territorial",2024-05-22 21:21:18
+530,-14.040570823423185,-69.32854582342318,conflicto social,"Nombre: Pajchani - Alto Inambari y Patambuco, Departamento: Puno, Provincia: Sandia, Distrito: Alto Inambari, Tipo: Demarcación territorial",2024-05-22 21:21:18
+531,-13.847864586188315,-69.59079758618832,conflicto social,"Nombre: Demarcación territorial entre Limbani y Phara, Departamento: Puno, Provincia: Sandia, Distrito: Limbani, Tipo: Demarcación territorial",2024-05-22 21:21:18
+532,-15.899189636928712,-70.05317213692871,conflicto social,"Nombre: Asociación de Pueblos Originarios Conservacionistas (APOC) - Urus Chulluni, Departamento: Puno, Provincia: Puno, Distrito: Puno, Tipo: Comunal",2024-05-22 21:21:18
+533,-5.743552115739648,-77.24765111573966,conflicto social,"Nombre: Comunidad Nativa Huascayacu, Departamento: San Martín, Provincia: Moyobamba, Distrito: Moyobamba, Tipo: Comunal",2024-05-22 21:21:18
+534,-6.5854854686693765,-75.70355246866939,conflicto social,"Nombre: Kichwa Anak Kurutuyacu - Caseríos Huimbayoc, Departamento: San Martín, Provincia: San Martín, Distrito: Huimbayoc, Tipo: Comunal",2024-05-22 21:21:18
+535,-6.585292530234177,-75.70335953023418,conflicto social,"Nombre: Santa Rosillo de Yanayacu, Departamento: San Martín, Provincia: San Martín, Distrito: Huimbayoc, Tipo: Comunal",2024-05-22 21:21:18
+536,-5.744532887154343,-77.24863188715435,conflicto social,"Nombre: Shimpiyacu, Departamento: San Martín, Provincia: Moyobamba, Distrito: Moyobamba, Tipo: Comunal",2024-05-22 21:21:18
+537,-12.517817182605922,-72.40409568260591,conflicto social,"Nombre: Quellouno - Yanatile, Departamento: Cusco, Provincia: La Convención, Distrito: Quellouno, Tipo: Demarcación territorial",2024-05-22 21:21:18
+538,-14.449489372617128,-72.08127637261713,conflicto social,"Nombre: Cancahuani - Yanque Lacca Lacca, Departamento: Cusco, Provincia: Chumbivilcas, Distrito: nan, Tipo: Comunal",2024-05-22 21:21:18
+539,-14.340145282082412,-71.88593228208241,conflicto social,"Nombre: Ccacho Limamayo - Sawa Sawa, Departamento: Cusco, Provincia: Chumbivilcas, Distrito: Chamaca, Tipo: Comunal",2024-05-22 21:21:18
+540,-12.84021590512076,-75.12736340512076,conflicto social,"Nombre: Huaylacucho - Pueblo Libre, Departamento: Huancavelica, Provincia: Huancavelica, Distrito: Huancavelica, Tipo: Comunal",2024-05-22 21:21:18
+541,-11.77406825427948,-75.42560275427947,conflicto social,"Nombre: Uchubamba - Curimarca, Departamento: Junín, Provincia: Jauja, Distrito: Masma, Tipo: Comunal",2024-05-22 21:21:18
+542,-6.772076794008137,-79.85698769400814,conflicto social,"Nombre: Tumán, Departamento: Lambayeque, Provincia: Chiclayo, Distrito: Tumán, Tipo: Laboral",2024-05-22 21:21:18
+543,-16.27239418507324,-69.89796118507324,conflicto social,"Nombre: Pasto Grande - Puno/Moquegua, Departamento: Puno, Provincia: Puno, Distrito: Acora, Tipo: Demarcación territorial",2024-05-22 21:21:18
+544,-14.592642534891626,-73.27862953489162,conflicto social,"Nombre: Totora Pisquicocha - Hurayhuma, Departamento: Apurímac, Provincia: Aymaraes, Distrito: Cotaruse, Tipo: Comunal",2024-05-22 21:21:18
+545,-3.720276004221516,-77.89994400422151,conflicto social,"Nombre: Wampis - Minería ilegal, Departamento: Amazonas, Provincia: Condorcanqui, Distrito: Río Santiago, Tipo: Socioambiental",2024-05-22 21:21:18
+546,-4.054273950893564,-78.34093095089356,conflicto social,"Nombre: Cenepa - Minería informal e ilegal (antes Afrodita), Departamento: Amazonas, Provincia: Condorcanqui, Distrito: El Cenepa, Tipo: Socioambiental",2024-05-22 21:21:18
+547,-10.2915295676771,-76.64036706767709,conflicto social,"Nombre: Independencia - Raura, Departamento: Huánuco, Provincia: Lauricocha, Distrito: San Miguel de Cauri, Tipo: Socioambiental",2024-05-22 21:21:18
+548,-9.630372505417348,-76.88837200541735,conflicto social,"Nombre: Llata - Antamina, Departamento: Huánuco, Provincia: Huamalies, Distrito: Llata, Tipo: Socioambiental",2024-05-22 21:21:18
+549,-9.241677082382964,-75.93918158238297,conflicto social,"Nombre: Sector de Shapajilla - Celdas transitorias, Departamento: Huánuco, Provincia: Leoncio Prado, Distrito: Luyando, Tipo: Socioambiental",2024-05-22 21:21:18
+550,-5.600109580662983,-74.89811008066299,conflicto social,"Nombre: Derrame canal Puinahua, Departamento: Loreto, Provincia: Requena, Distrito: Puinahua, Tipo: Socioambiental",2024-05-22 21:21:18
+551,-4.29992155725428,-75.49828355725428,conflicto social,"Nombre: Comunidades nativas de la Cuenca del río Chambira, Departamento: Loreto, Provincia: Loreto, Distrito: Urarinas, Tipo: Socioambiental",2024-05-22 21:21:18
+552,-4.299711961625674,-75.49807396162568,conflicto social,"Nombre: CN Cuninico - Petroperú, Departamento: Loreto, Provincia: Loreto, Distrito: Urarinas, Tipo: Socioambiental",2024-05-22 21:21:18
+553,-2.0339573029093505,-74.39301030290936,conflicto social,"Nombre: Comunidades de la cuenca del río Curaray, Departamento: Loreto, Provincia: Maynas, Distrito: Napo, Tipo: Socioambiental",2024-05-22 21:21:18
+554,-4.301184542077444,-75.49954654207745,conflicto social,"Nombre: Saramurillo - Estación 1, Departamento: Loreto, Provincia: Loreto, Distrito: Urarinas, Tipo: Socioambiental",2024-05-22 21:21:18
+555,-3.0804005152972764,-75.55009851529728,conflicto social,"Nombre: San Juan Nativo, San Juan Campesino y Nueva Libertad – Pluspetrol Norte, Departamento: Loreto, Provincia: Loreto, Distrito: Trompeteros, Tipo: Socioambiental",2024-05-22 21:21:18
+556,-3.0795776002880992,-75.54927560028811,conflicto social,"Nombre: Santa Elena - Pluspetrol Norte, Departamento: Loreto, Provincia: Loreto, Distrito: Trompeteros, Tipo: Socioambiental",2024-05-22 21:21:18
+557,-3.0804764588285014,-75.55017445882851,conflicto social,"Nombre: San José de Nueva Esperanza - Pluspetrol Norte, Departamento: Loreto, Provincia: Loreto, Distrito: Trompeteros, Tipo: Socioambiental",2024-05-22 21:21:18
+558,-3.763202183736652,-77.42492468373665,conflicto social,"Nombre: Fernando Rosas - Petroperú, Departamento: Loreto, Provincia: Datem del Marañón, Distrito: Morona, Tipo: Socioambiental",2024-05-22 21:21:18
+559,-4.30090338415336,-75.49926538415336,conflicto social,"Nombre: Comunidades Urituyacu, Departamento: Loreto, Provincia: Loreto, Distrito: Urarinas, Tipo: Socioambiental",2024-05-22 21:21:18
+560,-5.600352005453833,-74.89835250545383,conflicto social,"Nombre: Bretaña - Petro Tal, Departamento: Loreto, Provincia: Requena, Distrito: Puinahua, Tipo: Socioambiental",2024-05-22 21:21:18
+561,-4.300463997097879,-75.49882599709788,conflicto social,"Nombre: Nuevo Progreso - Pluspetrol, Departamento: Loreto, Provincia: Loreto, Distrito: Urarinas, Tipo: Socioambiental",2024-05-22 21:21:18
+562,-4.693224939580002,-77.44574343958,conflicto social,"Nombre: Sinchi Roca - Derrame de petroleo ONP, Departamento: Loreto, Provincia: Datem del Marañón, Distrito: Manseriche, Tipo: Socioambiental",2024-05-22 21:21:18
+563,-3.079856166875282,-75.54955416687528,conflicto social,"Nombre: Villa Trompeteros - Pluspetrol Norte Lote 8, Departamento: Loreto, Provincia: Loreto, Distrito: Trompeteros, Tipo: Socioambiental",2024-05-22 21:21:18
+564,-4.299337626652387,-75.49769962665239,conflicto social,"Nombre: Feconamach - Lote 8, Departamento: Loreto, Provincia: Loreto, Distrito: Urarinas, Tipo: Socioambiental",2024-05-22 21:21:18
+565,-4.6918004114009,-77.4443189114009,conflicto social,"Nombre: Santa Rosa - Derrame de petroleo ONP, Departamento: Loreto, Provincia: Datem del Marañón, Distrito: Manseriche, Tipo: Socioambiental",2024-05-22 21:21:18
+566,-4.693414380777306,-77.4459328807773,conflicto social,"Nombre: Chapis - Derrame petroleo, Departamento: Loreto, Provincia: Datem del Marañón, Distrito: Manseriche, Tipo: Socioambiental",2024-05-22 21:21:18
+567,-4.232939844403337,-74.21839954440335,conflicto social,"Nombre: Cinco cuencas - Lote 8 y 192, Departamento: Loreto, Provincia: Loreto, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+568,-3.7642375773901535,-77.42596007739016,conflicto social,"Nombre: Morona - Derrame de petróleo en Mayuriaga, Departamento: Loreto, Provincia: Datem del Marañón, Distrito: Morona, Tipo: Socioambiental",2024-05-22 21:21:18
+569,-4.828753797851392,-76.55451029785138,conflicto social,"Nombre: FREDEDAM - Datem del Marañón, Departamento: Loreto, Provincia: Datem del Marañón, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+570,-4.828345786687977,-76.55410228668796,conflicto social,"Nombre: Cuatro cuencas - Lote 192, Departamento: Loreto, Provincia: Datem del Marañón, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+571,-12.9700400083338,-69.9223045083338,conflicto social,"Nombre: Minería ilegal – La Pampa, Departamento: Madre de Dios, Provincia: Tambopata, Distrito: Inambari, Tipo: Socioambiental",2024-05-22 21:21:18
+572,-5.7170748917508405,-77.59999389175084,conflicto social,"Nombre: BP Alto Mayo, Departamento: San Martín, Provincia: Rioja, Distrito: Pardo Miguel, Tipo: Socioambiental",2024-05-22 21:21:18
+573,-10.732491341376706,-73.75930524137671,conflicto social,"Nombre: Organizaciones y comunidades nativas de Atalaya, Departamento: Ucayali, Provincia: Atalaya, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+574,-4.0528976812044775,-78.33955468120448,conflicto social,"Nombre: C.N. Awajún de El Cenepa-taladores y mineros ilegales, Departamento: Amazonas, Provincia: Condorcanqui, Distrito: El Cenepa, Tipo: Socioambiental",2024-05-22 21:21:18
+575,-10.289976295240525,-76.63881379524052,conflicto social,"Nombre: Anexo Antacallanca - Minera Raura, Departamento: Huánuco, Provincia: Lauricocha, Distrito: San Miguel de Cauri, Tipo: Socioambiental",2024-05-22 21:21:18
+576,-11.973921389289286,-75.14926638928928,conflicto social,"Nombre: Huancayo - Residuos sólidos (Lastay), Departamento: Junín, Provincia: Huancayo, Distrito: El Tambo, Tipo: Socioambiental",2024-05-22 21:21:18
+577,-4.300232313137316,-75.49859431313732,conflicto social,"Nombre: San José de Saramuro - Pluspetrol, Departamento: Loreto, Provincia: Loreto, Distrito: Urarinas, Tipo: Socioambiental",2024-05-22 21:21:18
+578,-3.079481363636612,-75.54917936363663,conflicto social,"Nombre: San Carlos - Pluspetrol, Departamento: Loreto, Provincia: Loreto, Distrito: Trompeteros, Tipo: Socioambiental",2024-05-22 21:21:18
+579,-12.129243732217908,-72.7908072322179,conflicto social,"Nombre: RTKNN - Consorcio Camisea (Lote 88), Departamento: Cusco, Provincia: La Convención, Distrito: Echarate, Tipo: Socioambiental",2024-05-22 21:21:18
+580,-9.962841347172851,-77.12312084717286,conflicto social,"Nombre: Comunidad de Aquia - Antamina, Departamento: Áncash, Provincia: Bolognesi, Distrito: Aquia, Tipo: Socioambiental",2024-05-22 21:21:18
+581,-9.44332344148785,-77.60218744148784,conflicto social,"Nombre: Atupa y Antahurán - Barrick, Departamento: Áncash, Provincia: Huaraz, Distrito: Jangas, Tipo: Socioambiental",2024-05-22 21:21:18
+582,-9.024393477924797,-77.7481109779248,conflicto social,"Nombre: Laguna Parón - Duke Energy, Departamento: Áncash, Provincia: Huaylas, Distrito: Caraz, Tipo: Socioambiental",2024-05-22 21:21:18
+583,-12.521503864515305,-75.2781913645153,conflicto social,"Nombre: Comunidades campesinas de Huancavelica - Minera IRL S.A., Departamento: Huancavelica, Provincia: Huancavelica, Distrito: Vilca, Tipo: Socioambiental",2024-05-22 21:21:18
+584,-14.019094058354266,-75.00177805835426,conflicto social,"Nombre: Ayamarca - Sierra Antapite S.A.C., Departamento: Huancavelica, Provincia: Huaytará, Distrito: Ocoyo, Tipo: Socioambiental",2024-05-22 21:21:18
+585,-14.00914985036691,-75.15707035036691,conflicto social,"Nombre: San Pedro de Ocobamba - Sierra Antapite S.A.C, Departamento: Huancavelica, Provincia: Huaytará, Distrito: Córdova, Tipo: Socioambiental",2024-05-22 21:21:18
+586,-12.490609467067436,-75.42563196706743,conflicto social,"Nombre: CC de Yauyos y Junín - Minera IRL Limited, Departamento: Junín, Provincia: Huancayo, Distrito: Chongos Alto, Tipo: Socioambiental",2024-05-22 21:21:18
+587,-11.74048955373142,-76.09341955373142,conflicto social,"Nombre: Andaychagua - Volcan, Departamento: Junín, Provincia: Yauli, Distrito: Yauli, Tipo: Socioambiental",2024-05-22 21:21:18
+588,-11.5100851821376,-76.1289616821376,conflicto social,"Nombre: Morococha - Chinalco, Departamento: Junín, Provincia: Yauli, Distrito: Morococha, Tipo: Socioambiental",2024-05-22 21:21:18
+589,-12.052320707895625,-77.12745590789562,conflicto social,"Nombre: Contaminación – Refinería La Pampilla (Repsol), Departamento: Callao, Provincia: Prov.Const.del Callao, Distrito: Ventanilla, Tipo: Socioambiental",2024-05-22 21:21:18
+590,-10.459485049768384,-76.31551504976838,conflicto social,"Nombre: Villa Corazón de Jesús - Glore Perú, Departamento: Pasco, Provincia: Daniel Alcides Carrión, Distrito: Santa Ana de Tusi, Tipo: Socioambiental",2024-05-22 21:21:18
+591,-10.720288126499808,-76.4633406264998,conflicto social,"Nombre: Champamarca - Activos Mineros, Departamento: Pasco, Provincia: Pasco, Distrito: Simón Bolívar, Tipo: Socioambiental",2024-05-22 21:21:18
+592,-10.54893543747016,-76.22654043747016,conflicto social,"Nombre: San Juan de Milpo - Minera Nexa Resources, Departamento: Pasco, Provincia: Pasco, Distrito: San Francisco de Asís de Yarusyacán, Tipo: Socioambiental",2024-05-22 21:21:18
+593,-10.718559392843757,-76.46161189284375,conflicto social,"Nombre: Contaminación en Simón Bolívar, Departamento: Pasco, Provincia: Pasco, Distrito: Simón Bolívar, Tipo: Socioambiental",2024-05-22 21:21:18
+594,-9.331921287922354,-77.93326678792235,conflicto social,"Nombre: Quillo - COPEMINA, Departamento: Áncash, Provincia: Yungay, Distrito: Quillo, Tipo: Socioambiental",2024-05-22 21:21:18
+595,-8.160103382895851,-77.78048238289585,conflicto social,"Nombre: Pampas - Tungsteno Málaga, Departamento: Áncash, Provincia: Pallasca, Distrito: Pampas, Tipo: Socioambiental",2024-05-22 21:21:18
+596,-8.94972705660512,-78.06817355660513,conflicto social,"Nombre: Huarupampa - Consorcio Minero Conexas, Departamento: Áncash, Provincia: Santa, Distrito: Cáceres del Perú , Tipo: Socioambiental",2024-05-22 21:21:18
+597,-9.733827261305873,-77.38759026130587,conflicto social,"Nombre: Ticapampa - Greenex, Departamento: Áncash, Provincia: Recuay, Distrito: Ticapampa, Tipo: Socioambiental",2024-05-22 21:21:18
+598,-9.713328393475305,-77.4303648934753,conflicto social,"Nombre: AMUCEPS - Antamina, Departamento: Áncash, Provincia: Recuay, Distrito: Recuay, Tipo: Socioambiental",2024-05-22 21:21:18
+599,-13.055719473795923,-74.93916847379592,conflicto social,"Nombre: Huachocolpa – Cía minera Kolpa, Departamento: Huancavelica, Provincia: Huancavelica, Distrito: Huachocolpa, Tipo: Socioambiental",2024-05-22 21:21:18
+600,-12.784580655978417,-74.97478525597842,conflicto social,"Nombre: Ascensión - Nexa Resources, Departamento: Huancavelica, Provincia: Huancavelica, Distrito: Ascensión, Tipo: Socioambiental",2024-05-22 21:21:18
+601,-12.094555612670248,-75.57571411267024,conflicto social,"Nombre: Chala Alta - Empresa Minera de Marmol, Departamento: Junín, Provincia: Concepción, Distrito: San José de Quero, Tipo: Socioambiental",2024-05-22 21:21:18
+602,-6.387993540293075,-77.93739704029308,conflicto social,"Nombre: Kuélap, Departamento: Amazonas, Provincia: Luya, Distrito: Tingo, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+603,-4.599287258577903,-77.8642001585779,conflicto social,"Nombre: Agenda social de Condorcanqui, Departamento: Amazonas, Provincia: Condorcanqui, Distrito: nan, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+604,-6.173313899666426,-77.99394239966642,conflicto social,"Nombre: Corral Quemado - La Calzada, Departamento: Amazonas, Provincia: Luya, Distrito: Luya, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+605,-8.328580831318414,-77.9506043313184,conflicto social,"Nombre: Municipalidad de Huandoval, Departamento: Áncash, Provincia: Pallasca, Distrito: Huandoval, Tipo: Asuntos de gobierno local",2024-05-22 21:21:18
+606,-16.075782947702027,-72.49278234770203,conflicto social,"Nombre: Respaldo a Majes - Siguas II, Departamento: Arequipa, Provincia: Castilla, Distrito: nan, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+607,-13.409735993209535,-72.04286949320955,conflicto social,"Nombre: Aeropuerto Chinchero, Departamento: Cusco, Provincia: Urubamba, Distrito: Chinchero, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+608,-13.216875387618268,-72.49258038761826,conflicto social,"Nombre: Tarrifas trenes en Machupicchu, Departamento: Cusco, Provincia: Urubamba, Distrito: Machupicchu, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+609,-12.864636099647306,-72.6923978996473,conflicto social,"Nombre: Cultivadores de hoja de coca, Departamento: Cusco, Provincia: La Convención, Distrito: nan, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+610,-9.023459038921343,-74.89558653892135,conflicto social,"Nombre: Frente de Defensa de los Intereses de Macuya, Departamento: Huánuco, Provincia: Puerto Inca, Distrito: Tournavista, Tipo: Asuntos de gobierno local",2024-05-22 21:21:18
+611,-13.919263647624003,-75.865624647624,conflicto social,"Nombre: Trabajadores sector agroexportador, Departamento: Ica, Provincia: Ica, Distrito: Salas, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+612,-5.858563431941392,-76.0081689319414,conflicto social,"Nombre: FREDESAAA - FEDEAGRAA / ELECTRO ORIENTE S.A., Departamento: Loreto, Provincia: Alto Amazonas, Distrito: Yurimaguas, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+613,-4.459354730984437,-74.15769073098444,conflicto social,"Nombre: Usuarios de electricidad en Nauta, Departamento: Loreto, Provincia: Loreto, Distrito: Nauta, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+614,-4.300356125076837,-75.49871812507683,conflicto social,"Nombre: ACONAKKU - Urarinas, Departamento: Loreto, Provincia: Loreto, Distrito: Urarinas, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+615,-4.828583906398447,-76.55434040639844,conflicto social,"Nombre: Estación 5 - Datem del Marañón, Departamento: Loreto, Provincia: Datem del Marañón, Distrito: nan, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+616,-3.2884139243228176,-74.2929319243228,conflicto social,"Nombre: Pobladores del distrito de Alto Nanay, Departamento: Loreto, Provincia: Maynas, Distrito: Alto Nanay, Tipo: Asuntos de gobierno local",2024-05-22 21:21:18
+617,-8.144256420936918,-78.47585762093692,conflicto social,"Nombre: Minerìa informal ley de formalización, Departamento: La Libertad, Provincia: nan, Distrito: nan, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+618,-11.994155025917998,-75.09178752591798,conflicto social,"Nombre: Agricultores y ganaderos lecheros, Departamento: Junín, Provincia: Huancayo, Distrito: Huancayo, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+619,-15.84086510176505,-70.02252380176505,conflicto social,"Nombre: Crisis política - Diciembre 2022, Departamento: Puno, Provincia: nan, Distrito: nan, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+620,-15.016312480041265,-69.35146098004127,conflicto social,"Nombre: Cuenca Suches - Minería informal e ilegal (II), Departamento: Puno, Provincia: Huancané, Distrito: Cojata, Tipo: Socioambiental",2024-05-22 21:21:18
+621,-16.23495937187936,-69.66686337187936,conflicto social,"Nombre: Parcialidad Apacheta - Residuos sólidos, Departamento: Puno, Provincia: El Collao, Distrito: Ilave, Tipo: Socioambiental",2024-05-22 21:21:18
+622,-15.826020565450268,-70.61010856545028,conflicto social,"Nombre: Cabanillas/Juliaca - Celdas Transitorias, Departamento: Puno, Provincia: San Román, Distrito: Cabanillas, Tipo: Socioambiental",2024-05-22 21:21:18
+623,-15.617369447752354,-69.92222244775235,conflicto social,"Nombre: Cuenca Coata, Departamento: Puno, Provincia: Puno, Distrito: Coata, Tipo: Socioambiental",2024-05-22 21:21:18
+624,-15.181572381066776,-70.84954638106677,conflicto social,"Nombre: Ocuviri - Aruntani (Arasi), Departamento: Puno, Provincia: Lampa, Distrito: Ocuviri, Tipo: Socioambiental",2024-05-22 21:21:18
+625,-14.99713006720421,-70.92053106720421,conflicto social,"Nombre: Cuenca Llallimayo - Aruntani, Departamento: Puno, Provincia: Melgar, Distrito: Llalli, Tipo: Socioambiental",2024-05-22 21:21:18
+626,-14.682052523942737,-69.49359052394274,conflicto social,"Nombre: Ramis - Minería informal, Departamento: Puno, Provincia: San Antonio de Putina, Distrito: Ananea, Tipo: Socioambiental",2024-05-22 21:21:18
+627,-15.725819859822757,-70.05543135982276,conflicto social,"Nombre: Suministro de agua de Paucarcolla, Departamento: Puno, Provincia: Puno, Distrito: Paucarcolla, Tipo: Asuntos de gobierno local",2024-05-22 21:21:18
+628,-7.223224028575145,-76.78777852857513,conflicto social,"Nombre: Paro por Puente Tarata, Departamento: San Martín, Provincia: Mariscal Cáceres, Distrito: Juanjui, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+629,-6.49286437505137,-76.37041387505137,conflicto social,"Nombre: FRECIDES - demandas nacionales, Departamento: San Martín, Provincia: San Martín, Distrito: Tarapoto, Tipo: Asuntos de gobierno nacional",2024-05-22 21:21:18
+630,-8.265421245143173,-76.53611674514318,conflicto social,"Nombre: Agua y alcantarillado - Tocache, Departamento: San Martín, Provincia: Tocache, Distrito: Tocache, Tipo: Asuntos de gobierno local",2024-05-22 21:21:18
+631,-17.056768817908278,-70.26879431790827,conflicto social,"Nombre: Candarave - Southern, Departamento: Tacna, Provincia: Candarave, Distrito: Candarave, Tipo: Socioambiental",2024-05-22 21:21:18
+632,-9.069212054874518,-78.5848529632529,conflicto social,"Nombre: Comerciantes del Mercado Progreso, Departamento: Áncash, Provincia: Santa, Distrito: Chimbote, Tipo: Asuntos de gobierno local",2024-05-22 21:21:18
+633,-5.0158123248165465,-78.69735682481655,conflicto social,"Nombre: Supayaku - Municipalidad Distrital de Huarango, Departamento: Cajamarca, Provincia: San Ignacio, Distrito: Huarango, Tipo: Asuntos de gobierno local",2024-05-22 21:21:18
+634,-6.739602599424356,-79.83417659942437,conflicto social,"Nombre: Mercado Modelo de Chiclayo, Departamento: Lambayeque, Provincia: Chiclayo, Distrito: José Leonardo Ortiz, Tipo: Asuntos de gobierno local",2024-05-22 21:21:18
+635,-16.080034229694927,-69.63776002969492,conflicto social,"Nombre: Vilavilani II - Fase I, Departamento: Puno, Provincia: El Collao, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+636,-5.079164658432644,-80.68056365843265,conflicto social,"Nombre: Mercado Modelo de Piura, Departamento: Piura, Provincia: Piura, Distrito: Piura , Tipo: Asuntos de gobierno local",2024-05-22 21:21:18
+637,-15.44423653310229,-70.18225003310228,conflicto social,"Nombre: Drenaje pluvial Juliaca, Departamento: Puno, Provincia: San Román, Distrito: Juliaca, Tipo: Asuntos de gobierno local",2024-05-22 21:21:18
+638,-13.65533546295434,-73.95337356295434,conflicto social,"Nombre: Vilcas Huamán – Rechazo a minería, Departamento: Ayacucho, Provincia: Vilcas Huamán, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+639,-17.18753802717214,-70.93103142717213,conflicto social,"Nombre: Mariscal Nieto - Huatipuka, Departamento: Moquegua, Provincia: Mariscal Nieto, Distrito: nan, Tipo: Socioambiental",2024-05-22 21:21:18
+640,-12.0846462969277,-77.0428312512355,ACCIDENTE VEHICULAR,"Dirección: AV. GENERAL CESAR CANEVARO  900  - LINCE, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-07-09 19:26:47
+641,-12.1596798534047,-76.9685050292613,INCENDIO,"Dirección: CL. JULIO BELLIDO  742  - SAN JUAN DE MIRAFLORES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-09 19:26:47
+642,-12.0690472,-77.0102047,INCENDIO,"Dirección: JR. 3 DE FEBRERO  800  - LA VICTORIA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-09 19:26:47
+643,-11.9680172033911,-76.7502356538743,MATERIALES PELIGROSOS (INCIDENTE),"Dirección: ENTRADA A LAS VEGAS    - LURIGANCHO, Tipo: MATERIALES PELIGROSOS (INCIDENTE) / FUGA GAS GLP Y OTROS GASES INFLAM / BALON DOMICILIARIO (10KG)",2021-07-09 19:26:47
+644,-12.2096877749086,-76.9500384436039,INCENDIO,"Dirección: PJ. VILLA EL SALVADOR SECTOR 2 GRUPO 26 J    - VILLA EL SALVADOR, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-09 19:26:47
+645,-12.0766051092901,-77.0953888246137,INCENDIO,"Dirección: AV. LA MARINA  2900  - SAN MIGUEL, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-09 22:29:27
+646,-12.1452348551645,-77.0167135672311,INCENDIO,"Dirección: JR. TALANA (JUAN ANSELMO ALVAREZ) CRUCE CON AV. LIMA (LA VICTORIA) BARRANCO    - BARRANCO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-10 01:29:28
+647,-12.148226184731,-77.0073003211266,INCENDIO,"Dirección: PJ. MANSILLA  300  - SANTIAGO DE SURCO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-10 02:29:28
+648,-12.1671078247371,-76.9690915736094,INCENDIO,"Dirección: AV. CESAR CANEVARO CRUCE CON AV. PEDRO SILVA SAN JUAN DE MIRAFLORES    - SAN JUAN DE MIRAFLORES, Tipo: INCENDIO / TERRENO BALDIO",2021-07-10 04:29:27
+649,-11.9075406066611,-77.074036552278,INCENDIO,"Dirección: CL. LOS ALAMOS  000  - PUENTE PIEDRA, Tipo: INCENDIO / TERRENO BALDIO",2021-07-10 07:29:27
+650,-11.9907841,-76.8217274,SERVICIO ESPECIAL,"Dirección: CARRETERA CENTRAL  KM  18    - CHACLACAYO, Tipo: SERVICIO ESPECIAL / PREVENCION - CAPACITACION / PRACTICAS",2021-07-10 14:29:28
+651,-12.0566039582899,-76.969098700929,ACCIDENTE VEHICULAR,"Dirección: AV. CORONEL FRANCISCO BOLOGNESI CRUCE CON CA. CENTRAL SANTA ANITA    - SANTA ANITA, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-07-10 20:29:27
+652,-12.8931107,-74.1944529,INCENDIO,"Dirección: ACANGARA HUANTA    - HUANTA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-11 21:29:26
+653,-12.0305333380813,-77.0777165437972,INCENDIO,"Dirección: JR. MOYOBAMBA  400  - SAN MARTIN DE PORRES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-12 01:29:27
+654,-11.9375157950327,-76.6989627973311,INCENDIO,"Dirección: JR. IQUITOS  400  - LURIGANCHO, Tipo: INCENDIO / FORESTAL / TERRENO DE CULTIVO,CHACRA, OTROS",2021-07-12 02:29:28
+655,-11.9401390624335,-76.7071529333969,INCENDIO,"Dirección: PJ. NAVIDAD  000  - LURIGANCHO, Tipo: INCENDIO / EQUIPOS ELECTRICOS CON ENERGIA / SUB ESTACION DE TRANSMISION",2021-07-12 04:29:27
+656,-12.0944288227876,-77.0698820769438,INCENDIO,"Dirección: AV. BRASIL  3800  - MAGDALENA DEL MAR, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-12 21:29:27
+657,-12.0640033290924,-77.0500345736021,INCENDIO,"Dirección: JR. GENERAL FELIPE VARELA  1618  - BREÑA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-13 00:29:27
+658,-12.0899029199969,-77.0502184584358,INCENDIO,"Dirección: CL. BURGOS CRUCE CON CL. TOMAS EDISON SAN ISIDRO    - SAN ISIDRO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-13 07:29:27
+659,-11.989390849069,-76.7969740240867,INCENDIO,"Dirección: UR. EL CUADRO    - CHACLACAYO, Tipo: INCENDIO / FORESTAL / BOSQUES",2021-07-13 13:29:27
+660,-12.1753246778683,-76.9666045576083,INCENDIO,"Dirección: PJ. 13 DE OCTUBRE MZ. H LT 10    - SAN JUAN DE MIRAFLORES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-13 17:29:28
+661,-12.0652240253423,-77.1345639842328,INCENDIO,"Dirección: JR. ANCASH  900  - CALLAO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-14 00:29:27
+662,-11.8677311502128,-77.0615252151015,INCENDIO,"Dirección: AH. SAN PEDRO DE CHOQUE MZ N LOTE 8    - PUENTE PIEDRA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-14 03:29:27
+663,-12.0716904967954,-77.0430326381822,INCENDIO,"Dirección: AV. TALARA  681  - JESUS MARIA, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-14 10:29:27
+664,-12.1540316479275,-76.9713117315753,INCENDIO,"Dirección: AV. PACHACUTEC (LOS HEROES)  515  - SAN JUAN DE MIRAFLORES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-14 18:29:27
+665,-12.0774878250559,-77.0335315798998,INCENDIO,"Dirección: CL. TEODORO CARDENAS CRUCE CON CL. MONTERO ROSAS LIMA    - LIMA, Tipo: INCENDIO / OTROS / CHIMENEA",2021-07-15 02:29:28
+666,-12.0631632938687,-77.1082820175219,INCENDIO,"Dirección: AV. VENEZUELA  1300  - BELLAVISTA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-15 04:29:27
+667,-12.2019198342569,-77.0051255349627,INCENDIO,"Dirección: AV. ALAMEDA LOS HORIZONTES CRUCE CON AV. ALAMEDA SAN MARCOS (A) CHORRILLOS    - CHORRILLOS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-15 09:29:26
+668,-12.1447309659069,-76.9819780170667,ACCIDENTE VEHICULAR,"Dirección: CARRETERAS - PANAMERICANAS PANAMERICANA SUR 10    - SANTIAGO DE SURCO, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-07-15 13:29:27
+669,-12.0315184148379,-77.0452568143306,MATERIALES PELIGROSOS (INCIDENTE),"Dirección: CL. M. QUIMPER  256  - SAN MARTIN DE PORRES, Tipo: MATERIALES PELIGROSOS (INCIDENTE) / FUGA GAS GLP Y OTROS GASES INFLAM / EN VEHICULO",2021-07-15 15:29:27
+670,-12.0025727173334,-76.8791920100327,INCENDIO,"Dirección: AS. SAN ANTONIO DE CARAPONGO I ETAPA V LT 8    - LURIGANCHO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-15 17:29:27
+671,-12.0312310712509,-77.0661808485446,INCENDIO,"Dirección: JR. SANTA FE  400  - SAN MARTIN DE PORRES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-16 01:29:27
+672,-12.0329694214681,-76.9495203653095,INCENDIO,"Dirección: AV. LOS DOMINICOS (LOS VIRREYES)  MZ  A  LT  3  1500  - SANTA ANITA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-16 04:29:29
+673,-12.0560027878804,-76.9949356231549,INCENDIO,"Dirección: PJ. COBRIZA AH 7 DE OCTUBRE  000  - EL AGUSTINO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-18 02:27:42
+674,-12.1145256807696,-77.014880059319,INCENDIO,"Dirección: CL. SAN ALBERTO CRUCE CON PR. EL CARMEN SURQUILLO/ casa huerta    - SURQUILLO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-18 07:27:42
+675,-11.9130021882658,-77.0485669392153,INCENDIO,"Dirección: CL. LOS NARANJOS  215  - COMAS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-18 09:27:43
+676,-11.9621847308654,-77.0383169492835,INCENDIO,"Dirección: JR. JORGE CHAVEZ  2116  - COMAS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-19 00:27:41
+677,-12.093746963509,-76.9933826185587,INCENDIO,"Dirección: AV. SAN BORJA NORTE (ENRIQUE GARCIA SAYAN)  1150  - SAN BORJA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-19 03:27:43
+678,-11.8782732,-77.126587,SERVICIO ESPECIAL,"Dirección: NESTOR GAMBETA CRUCE LA PLAYA  EXPLANADA PEDRO CUEVA    - VENTANILLA, Tipo: SERVICIO ESPECIAL / PREVENCION - CAPACITACION / PRACTICAS",2021-07-19 04:27:41
+679,-12.0837054312181,-77.0115823546182,INCENDIO,"Dirección: JR. JUVENAL DENEGRI  273  - LA VICTORIA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-19 08:27:42
+680,-11.855023469513,-77.0881077339976,INCENDIO,"Dirección: AV. BUENOS AIRES  1400  - PUENTE PIEDRA, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-19 14:27:48
+681,-12.1785257807371,-76.9479265662147,INCENDIO,"Dirección: AV. LA UNION (MICAELA BASTIDAS)  1000  - VILLA MARIA DEL TRIUNFO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-19 15:27:43
+682,-12.0427573142596,-77.0412732008428,INCENDIO,"Dirección: JR. HUANCAVELICA  957  - LIMA, Tipo: INCENDIO / EQUIPOS ELECTRICOS CON ENERGIA / TRANSFORMADORES DE ALTA TENSION",2021-07-19 18:27:45
+683,-12.1739566496478,-76.9795234803152,INCENDIO,"Dirección: CL. LOS CEDROS  MZ  B1 LT 17  CO. UMAMARCA    - SAN JUAN DE MIRAFLORES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-19 19:27:46
+684,-12.1830008054175,-76.9422885479142,INCENDIO,"Dirección: AV. MATEO PUMACAHUA CRUCE CON AV. PACHACUTEC (ATOCONGO) VILLA EL SALVADOR    - VILLA EL SALVADOR, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-19 19:27:46
+685,-12.0405390516564,-77.0460952324245,INCENDIO,"Dirección: CL. ASCOPE CRUCE CON AV. ENRIQUE MEIGGS (22 DE DICIEMBRE) LIMA    - LIMA, Tipo: INCENDIO / TERRENO BALDIO",2021-07-19 21:27:43
+686,-12.1521153961529,-76.982168001733,INCENDIO,"Dirección: AV. LOS LIRIOS (VIA SUR LIBRE)  100  - SAN JUAN DE MIRAFLORES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-19 22:27:46
+687,-12.1820477776146,-76.9269337818444,INCENDIO,"Dirección: PJ.  TABLADA DE LURIN SECTOR TERCERO MZ 15Z LT 7    - VILLA MARIA DEL TRIUNFO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-20 02:27:42
+688,-12.0607283510964,-77.0288475430252,INCENDIO,"Dirección: JR. HUASCARAN  355  - LA VICTORIA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-20 17:27:43
+689,-12.06080782683,-77.0316176056404,INCENDIO,"Dirección: JR. ANTONIO RAYMONDI  200  - LA VICTORIA, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-20 20:27:45
+690,-12.0653983483699,-77.031320557337,INCENDIO,"Dirección: JR. CANTA  592  - LA VICTORIA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-20 20:27:45
+691,-11.8495739372651,-76.9967842422316,INCENDIO,"Dirección: TUPAC AMARU   KM  24.5    - CARABAYLLO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-20 23:27:44
+692,-12.0524936269335,-77.0143074273975,INCENDIO,"Dirección: JR. ANTONIO MIROQUESADA  1404  - LIMA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-20 23:27:44
+693,-11.8675103485633,-77.0724761672919,INCENDIO,"Dirección: CARRETERAS - PANAMERICANAS PANAMERICANA NORTE 30    - PUENTE PIEDRA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-21 00:27:43
+694,-11.9899139184616,-77.0417596205594,INCENDIO,"Dirección: CL. LOS NIÑOS MARTIRES  900  - INDEPENDENCIA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-21 05:27:42
+695,-12.0198355812065,-76.9917039345879,INCENDIO,"Dirección: AV. EL SANTUARIO  1256  - SAN JUAN DE LURIGANCHO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-21 09:27:44
+696,-12.0088520877583,-77.0497942542869,INCENDIO,"Dirección: PJ. MILAGRO DE LA FRATERNIDAD   COMITE 8    - INDEPENDENCIA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-21 15:27:43
+697,-11.9852094857246,-77.0719987061749,INCENDIO,"Dirección: AV. LAS PALMERAS  4234  - LOS OLIVOS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-22 08:27:42
+698,-12.0322562924171,-77.0881891247364,INCENDIO,"Dirección: JR. AYACUCHO  3625  - SAN MARTIN DE PORRES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-22 08:27:42
+699,-12.2333018684368,-76.9418537558647,INCENDIO,"Dirección: AV. TALARA CRUCE CON AV. A (MARIA ELENA MOYANO) VILLA EL SALVADOR    - VILLA EL SALVADOR, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-22 08:27:42
+700,-11.9123987,-77.0041322,INCENDIO,"Dirección: REVOLUCION CON RIO SECO    - COMAS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-22 09:27:44
+701,-11.9376053,-77.0533276,INCENDIO,"Dirección: BELAUNDE OESTE CDRA.  5 COMAS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-22 09:27:44
+702,-12.0849556,-77.0547406,INCENDIO,"Dirección: BAUZATE Y MEZA  CON  CALLE CANTA  LA VICTORIA    - LA VICTORIA, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-22 09:27:44
+703,-11.9510244820559,-76.9873264598974,INCENDIO,"Dirección: AV. FERNANDO WIESE (PROCERES DE LA INDEPENDENCIA) PARADERO 7  000  - SAN JUAN DE LURIGANCHO, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-23 08:27:46
+704,-11.9572420387167,-76.9931476253055,INCENDIO,"Dirección: PJ. ROTHERDAM PJ ARRIBA PERU MZ MERCADO LTE 1  000  - SAN JUAN DE LURIGANCHO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-23 08:27:46
+705,-11.9702481180093,-77.0668538269986,INCENDIO,"Dirección: AV. LOS PLATINOS MZ A LOTE 24  000  - LOS OLIVOS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-23 08:27:46
+706,-12.1169698716758,-77.0341065858769,MATERIALES PELIGROSOS (INCIDENTE),"Dirección: AV. TENIENTE ENRIQUE PALACIOS  553  - MIRAFLORES, Tipo: MATERIALES PELIGROSOS (INCIDENTE) / FUGA GAS GLP Y OTROS GASES INFLAM / EN VEHICULO",2021-07-23 08:27:46
+707,-12.1708744846148,-76.9792001080663,ACCIDENTE VEHICULAR,"Dirección: AV. PANAMERICANA SUR ALT PTE ALIPIO NORTE A SUR  000  - SAN JUAN DE MIRAFLORES, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-07-23 12:27:44
+708,-11.9237186,-76.66112799999999,INCENDIO,"Dirección: CARRETERA CENTRAL KL 45.5    - RICARDO PALMA, Tipo: INCENDIO / FORESTAL / BOSQUES",2021-07-23 14:27:43
+709,-12.0265302549788,-76.9452134419583,INCENDIO,"Dirección: AS. EL ROSAL DE SANTA ANITA MZ.A7 LT 24    - ATE, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-23 18:27:43
+710,-11.9686648252872,-77.061995072611,INCENDIO,"Dirección: AV. GERARDO UNGER (ROSA DE AMERICA)  5411  - LOS OLIVOS, Tipo: INCENDIO / ESTRUCTURAS / ALMACEN - DEPOSITO",2021-07-23 21:27:54
+711,-12.1223417849739,-77.0165528404822,ACCIDENTE VEHICULAR,"Dirección: AV. MARISCAL RAMON CASTILLA  200  - SANTIAGO DE SURCO, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-07-24 02:27:41
+712,-12.0780900299159,-77.063142033313,INCENDIO,"Dirección: AV. SAN MARTIN  1100  - PUEBLO LIBRE, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-24 07:27:44
+713,-12.2439993021778,-76.9163358960853,INCENDIO,"Dirección: AH. PACHACAMAC SECTOR AMPLIACION LAS BRISAS DE PACHACAMAC C1    - VILLA EL SALVADOR, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-24 19:27:43
+714,-12.0507089695107,-77.0316723134647,INCENDIO,"Dirección: JR. LAMPA  748  - LIMA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-24 20:27:41
+715,-12.1278698651374,-76.986812101759,INCENDIO,"Dirección: AV. ALFREDO BENAVIDES  4800  - SANTIAGO DE SURCO, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-25 03:27:42
+716,-11.9881559706152,-77.1143335411348,INCENDIO,"Dirección: PR. ALEJANDRO BERTELLO CRUCE CON AV. CARLOS IZAGUIRRE (2) SAN MARTIN DE PORRES    - SAN MARTIN DE PORRES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-25 06:27:41
+717,-12.0532471266549,-77.1411556717923,INCENDIO,"Dirección: JR. ANTONIO MIROQUESADA  200  - CALLAO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-25 08:27:42
+718,-12.0441813,-77.0300033,INCENDIO,"Dirección: JR.  DE LA UNION  CDRA.  7    - LIMA, Tipo: INCENDIO / OTROS / CHIMENEA",2021-07-25 16:27:43
+719,-11.9364330657596,-77.0417581862501,INCENDIO,"Dirección: JR. LORD COCHRANE  500  - COMAS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-25 16:27:43
+720,-12.1844410749956,-77.0094845269149,INCENDIO,"Dirección: AV. SANTA CRUZ/AH. SANTA TERESA DE VILLA SECTOR I  MZ  24  LT  17  000  - CHORRILLOS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-26 02:27:41
+721,-11.9741945676928,-77.0917726950465,INCENDIO,"Dirección: UR. EL MIRADOR III ETAPA  MZ.  E  LOTE  11    - SAN MARTIN DE PORRES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-27 04:27:45
+722,-11.9238003632077,-76.6810478774126,ACCIDENTE VEHICULAR,"Dirección: CARRETERAS - PANAMERICANAS CARRETERA CENTRAL 36    - LURIGANCHO, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-07-27 05:27:43
+723,-12.0939238824676,-77.071264596014,INCENDIO,"Dirección: AV. SUCRE (INDEPENDENCIA)  547  - MAGDALENA DEL MAR, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-27 05:27:44
+724,-12.0302830203435,-76.9599044673552,INCENDIO,"Dirección: CL. 8 CRUCE CON AV. FERROCARRIL (HUANCARAMA) SANTA ANITA    - SANTA ANITA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-27 23:27:45
+725,-12.0612428489697,-76.9985601787053,INCENDIO,"Dirección: JR. LUIS MIGUEL SANCHEZ CERRO  307  - SAN LUIS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-28 01:27:46
+726,-11.9357531273221,-77.0736391214742,INCENDIO,"Dirección: CL. LA HONRADEZ (53)   UR PRO  472  - LOS OLIVOS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-28 07:27:46
+727,-12.2076908126353,-76.9225312547916,INCENDIO,"Dirección: AH. VILLA SANTA ROSA SECTOR PARAISO SANTA ROSA C    - VILLA MARIA DEL TRIUNFO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-28 08:27:45
+728,-12.0528178627617,-77.0282171507136,INCENDIO,"Dirección: JR. AYACUCHO  712  - LIMA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-28 21:27:48
+729,-12.0647822796059,-76.9753470021591,INCENDIO,"Dirección: CL. LUIS GALVANI  220  - ATE, Tipo: INCENDIO / ESTRUCTURAS / ALMACEN - DEPOSITO",2021-07-29 01:27:49
+730,-12.052743707686,-77.1181952505999,INCENDIO,"Dirección: UR. JOSE BOTERIN ETAPA II (BARBOZA) MZ  E2  LT 10    - CALLAO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-29 03:27:46
+731,-12.0165102265826,-76.9972286553831,INCENDIO,"Dirección: AV. 13 DE ENERO  900  - SAN JUAN DE LURIGANCHO, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-29 03:27:47
+732,-12.2098055550119,-76.9250104070439,INCENDIO,"Dirección: AV. PACHACUTEC  7000  - VILLA MARIA DEL TRIUNFO, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-29 06:27:48
+733,-12.0448456,-77.0297865,SERVICIO ESPECIAL,"Dirección: PALACIO DE GOBIERNO ( DESPLAZAMIENTO POR BICENTENARIO)    - LIMA, Tipo: SERVICIO ESPECIAL / CUBRIR SERVICIO / LUGAR ESPECIFICO",2021-07-29 11:27:48
+734,-11.9948250829476,-76.8248659906862,INCENDIO,"Dirección: CL. LOS ALAMOS (4)  000  - CHACLACAYO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-29 11:27:49
+735,-11.8779331009358,-77.1329558691359,INCENDIO,"Dirección: AV. LA PLAYA  000  - VENTANILLA, Tipo: INCENDIO / FORESTAL / BOSQUES",2021-07-29 13:27:46
+736,-11.5626355,-77.2701481,SERVICIO ESPECIAL,"Dirección: PLAZA DE ARMAS CHANCAY POR EL BICENTENARIO    - CHANCAY, Tipo: SERVICIO ESPECIAL / EVENTOS PUBLICOS / OTROS",2021-07-29 14:27:45
+737,-12.1477002457565,-76.9866354084365,INCENDIO,"Dirección: AV. SANTIAGO DE SURCO (TOMAS MARSANO)  5010  - SANTIAGO DE SURCO, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-29 17:27:46
+738,-12.1206544,-77.0294397,SERVICIO ESPECIAL,"Dirección: DESFILE  DE  FIESTAS  PATRIAS    POR LA  ZONA    - MIRAFLORES, Tipo: SERVICIO ESPECIAL / EVENTOS PUBLICOS / OTROS",2021-07-29 21:27:45
+739,-12.1102437348434,-77.0395293017111,INCENDIO,"Dirección: CL. EUSEBIO DEL LLANO ZAPATA  316  - MIRAFLORES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-29 23:27:45
+740,-12.4585179853571,-76.7532310217622,INCENDIO,"Dirección: CARRETERAS - PANAMERICANAS PANAMERICANA SUR 57    - PUCUSANA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-30 03:27:44
+741,-12.037454156861,-77.068851217482,INCENDIO,"Dirección: CL. MANUEL PIMENTEL JIMENEZ  2100  - LIMA, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-07-30 05:27:46
+742,-12.0412857986046,-76.952752553669,INCENDIO,"Dirección: AV HUAROCHIRI MZ E3 LOTE 9    - SANTA ANITA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-30 14:27:49
+743,-12.0822857,-77.0419941,SERVICIO ESPECIAL,"Dirección: B202    - JESUS MARIA, Tipo: SERVICIO ESPECIAL / EVENTOS OFICIALES / CEREMONIAS",2021-07-30 14:27:49
+744,-11.6208214,-77.2073442,ACCIDENTE VEHICULAR,"Dirección: PANAMERICANA NORTE KM 68    - CHANCAY, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-07-30 23:27:48
+745,-12.0581493927973,-77.0143625454177,INCENDIO,"Dirección: JR. ANTONIO RAYMONDI  1645  - LIMA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-31 00:27:47
+746,-11.8249478,-77.1230094,ACCIDENTE VEHICULAR,"Dirección: PANAMERICANA NORTE KM 37.5    - PUENTE PIEDRA, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-07-31 00:27:47
+747,-11.9189767883764,-77.0381883952861,INCENDIO,"Dirección: CL. CARLOS MOORE  427  - COMAS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-31 02:27:46
+748,-12.1804458367903,-77.0000055682306,INCENDIO,"Dirección: CL. ONTARIO (CAMINO ONCE)  185  - CHORRILLOS, Tipo: INCENDIO / EQUIPOS ELECTRICOS CON ENERGIA / TRANSFORMADORES DE ALTA TENSION",2021-07-31 04:27:46
+749,-12.0070261593279,-77.0361280543271,INCENDIO,"Dirección: AH. MUNICIPAL III SECTOR HORACIO ZEVALLOS A  LOT 3    - RIMAC, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-31 05:27:46
+750,-12.1935373441597,-77.0071020691351,INCENDIO,"Dirección: CL. MACCHU PICCHU  100  - CHORRILLOS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-31 15:27:46
+751,-12.0610252966817,-77.0828606152551,MATERIALES PELIGROSOS (INCIDENTE),"Dirección: AV. JOSE DE LA RIVA AGUERO CRUCE CON AV. VENEZUELA SAN MIGUEL    - SAN MIGUEL, Tipo: MATERIALES PELIGROSOS (INCIDENTE) / HIDROCARBUROS / ESTACION DE SERVICIO",2021-07-31 19:27:46
+752,-12.0588852604054,-77.0247561176793,INCENDIO,"Dirección: PJ. ANTONIO RAYMONDI  100  - LA VICTORIA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-07-31 21:27:45
+753,-12.0646873823529,-77.0780100603075,ACCIDENTE VEHICULAR,"Dirección: AV. UNIVERSITARIA  1500  - LIMA, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-08-01 01:27:45
+754,-12.092680885434,-77.0731356257028,INCENDIO,"Dirección: JR. CONTRALMIRANTE MIGUEL GRAU (BENITO LAZO) CRUCE CON JR. LEONCIO PRADO (CAPITAN DE NAVIO ULISES DELBOY) MAGDALENA DEL  440  - MAGDALENA DEL MAR, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-01 02:27:44
+755,-12.2027824058083,-76.949011004786,INCENDIO,"Dirección: PJ. VILLA EL SALVADOR SECTOR 1 GRUPO 20 I LT 7    - VILLA EL SALVADOR, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-01 03:27:44
+756,-12.1911760370264,-76.9902901330414,INCENDIO,"Dirección: AH. SAN JUAN DE LA LIBERTAD  COMITE 12  MZ L1 /  AV. VELAZCO ALVARADO    - CHORRILLOS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-01 08:27:43
+757,-11.8522708671059,-77.1226638279025,INCENDIO,"Dirección: AH. MI PERU GRUPO J7 LT 16    - VENTANILLA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-01 08:27:44
+758,-11.87744,-77.1330564,INCENDIO,"Dirección: AV LA PLAYA //  AHH. DESARROLLO  2,000    - VENTANILLA, Tipo: INCENDIO / FORESTAL / TERRENO DE CULTIVO,CHACRA, OTROS",2021-08-01 16:27:42
+759,-12.0064771470936,-77.0991706642411,INCENDIO,"Dirección: URB SANTA ROSA MZ M LTE 1    - CALLAO, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / COCHERA - GARAJE - TALLER",2021-08-03 06:27:45
+760,-12.1673312703986,-77.0260671848805,INCENDIO,"Dirección: JR. RECUAY  470  - BREÑA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-03 15:27:46
+761,-12.0816862593818,-77.05267680347,INCENDIO,"Dirección: PJ. OCTAVIO BERNAL  160  - JESUS MARIA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-03 19:27:53
+762,-12.3971389228608,-76.7579716011711,ACCIDENTE VEHICULAR,"Dirección: CARRETERAS - PANAMERICANAS PANAMERICANA SUR 50    - SAN BARTOLO, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-08-03 22:27:47
+763,-12.0532099220156,-76.9574558921596,INCENDIO,"Dirección: CL. RAMIRO PRIALE (JAVIER HERAUD)  265  - ATE, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / COCHERA - GARAJE - TALLER",2021-08-03 23:27:46
+764,-12.1186921407567,-77.0288955681481,INCENDIO,"Dirección: AV. AREQUIPA  5280  - MIRAFLORES, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / COCHERA - GARAJE - TALLER",2021-08-03 23:27:47
+765,-12.0353915708046,-77.0657342745672,INCENDIO,"Dirección: AV. NICOLAS DUEÃƒÆ’Ã¢â‚¬ËœAS  000  - LIMA, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-08-04 01:27:47
+766,-12.0056563010837,-77.0931582466478,INCENDIO,"Dirección: CO. SANTA APOLONIA MZ H  LOTE 14    - SAN MARTIN DE PORRES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-04 15:27:48
+767,-12.0841612582106,-76.9985230317009,INCENDIO,"Dirección: AL. SANTIAGO ANTUNEZ DE MAYOLO  100  - SAN BORJA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-04 17:28:01
+768,-12.0912211291299,-77.0795230701549,INCENDIO,"Dirección: AV. ARICA  401  - SAN MIGUEL, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-04 17:28:02
+769,-11.9789698018771,-77.1253191032756,ACCIDENTE VEHICULAR,"Dirección: AV. CORONEL NESTOR GAMBETA (EL EMISOR)  7003  - CALLAO, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-08-04 17:28:04
+770,-12.0322923041542,-77.0904820713572,INCENDIO,"Dirección: JR. HUANCAYO (30)  624  - SAN MARTIN DE PORRES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-04 19:27:49
+771,-12.159530767094,-76.9576432992329,INCENDIO,"Dirección: AV. PACHACUTEC (LOS HEROES)  1200  - SAN JUAN DE MIRAFLORES, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-08-04 23:27:46
+772,-11.8290757774332,-77.1190204518724,MATERIALES PELIGROSOS (INCIDENTE),"Dirección: CARRETERAS - PANAMERICANAS PANAMERICANA NORTE 36.06    - PUENTE PIEDRA, Tipo: MATERIALES PELIGROSOS (INCIDENTE) / FUGA GAS GLP Y OTROS GASES INFLAM / EN VEHICULO",2021-08-04 23:27:47
+773,-12.0759358400869,-77.0283530815384,INCENDIO,"Dirección: JR. SAENZ PEÃƒÆ’Ã¢â‚¬ËœA  1416  - LA VICTORIA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-05 06:27:45
+774,-12.0359607528866,-77.0686997955499,INCENDIO,"Dirección: JR. PEREZ DE TUDELA  2029  - LIMA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-05 09:27:44
+775,-12.019599186568,-76.9673807387767,INCENDIO,"Dirección: CL. D MZ D LT 4 UR. PRIMAVERA    - SAN JUAN DE LURIGANCHO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-05 10:27:43
+776,-12.0535673391275,-76.9766040693167,INCENDIO,"Dirección: CL. LAS ORQUIDEAS  133  - SANTA ANITA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-05 17:27:43
+777,-12.1422049810567,-76.9397278936764,INCENDIO,"Dirección: CL. JOSE OLAYA  900  - VILLA MARIA DEL TRIUNFO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-05 17:27:44
+778,-12.215052711452,-76.9224474377854,INCENDIO,"Dirección: AV. LAS MALVINAS (JOSE CARLOS MARIATEGUI) CRUCE CON AV. PACHACUTEC (ATOCONGO) VILLA EL SALVADOR    - VILLA EL SALVADOR, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-06 03:27:48
+779,-12.0709146540079,-77.1158109818531,MATERIALES PELIGROSOS (INCIDENTE),"Dirección: CL. CUSCO  URB  TROPICAL  100  - LA PERLA, Tipo: MATERIALES PELIGROSOS (INCIDENTE) / FUGA GAS GLP Y OTROS GASES INFLAM / EN VEHICULO",2021-08-06 15:27:44
+780,-12.1070383352804,-76.9815461721474,INCENDIO,"Dirección: CL. BELLO HORIZONTE  139  - SAN BORJA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-06 22:27:43
+781,-12.0314041445531,-77.0037708875419,INCENDIO,"Dirección: PROVINCIA DE OYON    - OYON, Tipo: INCENDIO / FORESTAL / BOSQUES",2021-08-06 18:27:43
+782,-12.0596527175267,-77.1272488442729,INCENDIO,"Dirección: AV. BUENOS AIRES (MIGUEL GRAU) CRUCE CON AV. GUARDIA CHALACA BELLAVISTA    - BELLAVISTA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-07 02:27:44
+783,-12.0531823598874,-77.0114913699102,INCENDIO,"Dirección: AV. GRAU FRENTE CUARTEL BARBONES    - EL AGUSTINO, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-08-07 17:27:45
+784,-11.8284604456924,-77.1196832725517,INCENDIO,"Dirección: CARRETERAS - PANAMERICANAS PANAMERICANA NORTE 36.16    - PUENTE PIEDRA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-07 19:27:44
+785,-12.0791122446897,-77.0507686307566,INCENDIO,"Dirección: AV. RICARDO TIZON Y BUENO  595  - JESUS MARIA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-07 20:27:43
+786,-12.1102437348434,-77.0395293017111,INCENDIO,"Dirección: CL. EUSEBIO DEL LLANO ZAPATA  332  - MIRAFLORES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-08 01:27:43
+787,-12.010601510544,-77.0569642858432,INCENDIO,"Dirección: AV. MARCO POLO MZ C 1 LT 21  000  - SAN MARTIN DE PORRES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-08 04:27:42
+788,-12.0496543728332,-77.0500871144236,INCENDIO,"Dirección: JR. ZORRITOS  800  - LIMA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-08 04:27:43
+789,-12.0661981537714,-77.1242011980766,INCENDIO,"Dirección: AV. JOSE GALVEZ  1225  - BELLAVISTA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-08 14:27:44
+790,-12.0125102563241,-77.0814602861553,INCENDIO,"Dirección: AH. DANIEL ALCIDES CARRION MZ. D1 LT 2    - SAN MARTIN DE PORRES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-09 02:27:44
+791,-11.9161073112082,-77.0509901103547,INCENDIO,"Dirección: PR. EL RETABLO  1900  - COMAS, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-08-09 04:27:45
+792,-12.0377725283859,-77.0571959637104,INCENDIO,"Dirección: JR. OTUZCO  900  - LIMA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-09 09:27:43
+793,-11.985566640918,-76.8094436403276,INCENDIO,"Dirección: CARRETERAS - PANAMERICANAS CARRETERA CENTRAL 20    - CHACLACAYO, Tipo: INCENDIO / FORESTAL / TERRENO DE CULTIVO,CHACRA, OTROS",2021-08-09 08:27:43
+794,-11.9144331,-77.0490126,INCENDIO,"Dirección: AV. LOS INCAS (4)  900  - COMAS, Tipo: INCENDIO / OTROS / CHIMENEA",2021-08-09 16:27:42
+795,-12.0124205285011,-77.1040168549045,INCENDIO,"Dirección: UNION CHALACA NÃ‚Âº 1    - CALLAO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-09 20:27:41
+796,-12.2111918232441,-76.9001513906871,INCENDIO,"Dirección: A.H SANTISIMO SALVADOR MZ M LT 1    - PACHACAMAC, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-10 01:27:41
+797,-12.0760130638097,-77.0878922065878,INCENDIO,"Dirección: AV. PARQUE DE LAS LEYENDAS  252  - SAN MIGUEL, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-10 22:27:43
+798,-12.0111777943663,-77.0723194075357,INCENDIO,"Dirección: AV. TOMAS VALLE  1110  - LOS OLIVOS, Tipo: INCENDIO / ESTRUCTURAS / ALMACEN - DEPOSITO",2021-08-11 06:27:41
+799,-11.9831348062525,-77.0786636306569,ACCIDENTE VEHICULAR,"Dirección: AV. LOS ALISOS CRUCE CON AV. UNIVERSITARIA NORTE LOS OLIVOS    - LOS OLIVOS, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-08-11 05:27:42
+800,-12.0148568444379,-76.9976330962731,INCENDIO,"Dirección: CL. LOS CODORNICES MZ D LOTE  1  900  - SAN JUAN DE LURIGANCHO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-11 20:27:43
+801,-12.0644051950919,-77.0387838469132,ACCIDENTE VEHICULAR,"Dirección: AV. 28 DEJULIO CRUCE CON JR. WASHINGTON LIMA    - LIMA, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-08-12 07:27:43
+802,-12.061904,-77.034148,SERVICIO ESPECIAL,"Dirección: CENTRO COMERCIAL POLVOS AZULES, Tipo: SERVICIO ESPECIAL / PREVENCION - CAPACITACION / SIMULACROS",2021-08-12 11:27:42
+803,-12.1375831112388,-77.0027815364887,INCENDIO,"Dirección: AV. MARISCAL RAMON CASTILLA (LOS TALLANES)  1600  - SANTIAGO DE SURCO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-13 02:27:45
+804,-11.9885625484263,-77.0881741344168,INCENDIO,"Dirección: AS. JUAN PABLO II B    - SAN MARTIN DE PORRES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-13 02:27:46
+805,-12.1503717846691,-77.020110573854,INCENDIO,"Dirección: JR. CORPANCHO (INDIO CAICEDO) CRUCE CON AV. GENERAL FRANCISCO BOLOGNESI (PANAMA) BARRANCO    - BARRANCO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-13 04:27:46
+806,-12.038515003724,-77.0319492636188,INCENDIO,"Dirección: PR. TACNA  224  - RIMAC, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-08-13 15:27:52
+807,-12.0629873546468,-76.9950672317986,INCENDIO,"Dirección: CL. LOS GERANIOS  108  - ATE, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-13 18:28:00
+808,-12.2014786185407,-76.9817075267128,INCENDIO,"Dirección: PJ. JOSE OLAYA (LOS HEROES)  000  - CHORRILLOS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-13 20:27:59
+809,-12.1134873595818,-76.9858636879236,INCENDIO,"Dirección: CL. MONTE BLANCO  236  - SANTIAGO DE SURCO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-13 21:27:55
+810,-12.1192359590265,-77.0270528886931,INCENDIO,"Dirección: AV. RICARDO PALMA  240  - MIRAFLORES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-13 23:27:48
+811,-12.0678261788227,-76.9582170172486,MATERIALES PELIGROSOS (INCIDENTE),"Dirección: AV. DE LOS CONSTRUCTORES (D) CRUCE AV LA MOLINA  100  - LA MOLINA, Tipo: MATERIALES PELIGROSOS (INCIDENTE) / FUGA GAS GLP Y OTROS GASES INFLAM / EN VEHICULO",2021-08-14 03:27:48
+812,-12.0598235902352,-77.0379506685315,ACCIDENTE VEHICULAR,"Dirección: AV. INCA GARCILAZO DE LA VEGA (WILSON) CRUCE CON AV. 9 DE DICIEMBRE (PASEO COLON) LIMA    - LIMA, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-08-14 04:27:46
+813,-11.9988263740252,-77.0504746397968,INCENDIO,"Dirección: CL. LAS BEGONIAS  135  - INDEPENDENCIA, Tipo: INCENDIO / VEHICULO / AUTOMOVIL / VIA PUBLICA",2021-08-14 06:27:46
+814,-11.8837789484045,-77.0234849374501,INCENDIO,"Dirección: AV. TUPAC AMARU  2300  - CARABAYLLO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-14 07:27:46
+815,-11.9848889792635,-77.0117690636965,INCENDIO,"Dirección: AV. CONSTELACION  2651  - SAN JUAN DE LURIGANCHO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-14 10:27:45
+816,-12.1584682859941,-76.9847784632599,INCENDIO,"Dirección: JR. JOSE GABRIEL AGUILAR SEGURA  200  - SANTIAGO DE SURCO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-14 14:27:45
+817,-12.0528058477911,-77.0927936743648,INCENDIO,"Dirección: AV. OSCAR R. BENAVIDES (COLONIAL)  5048  - BELLAVISTA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-14 17:27:45
+818,-12.1609577919281,-76.9689250098494,INCENDIO,"Dirección: CL. PABLO ALAS  749  - SAN JUAN DE MIRAFLORES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-14 19:27:44
+819,-13.6674516,-76.2119295,EMERGENCIA MEDICA,"Dirección: PISCO PLAYA LA JOYA, Tipo: EMERGENCIA MEDICA / TRAUMATICAS / HERIDO POR CAIDA",2021-08-14 21:27:44
+820,-12.0014488249241,-76.8568350708837,INCENDIO,"Dirección: AV. PRINCIPAL (CARAPONGO)  000  - LURIGANCHO, Tipo: INCENDIO / ESTRUCTURAS / ALMACEN - DEPOSITO",2021-08-14 22:27:44
+821,-11.975169,-76.771609,INCENDIO,"Dirección: MALECON MANCO CAPAC 616    - CHACLACAYO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-15 01:27:44
+822,-11.872005210232,-77.0826473127415,INCENDIO,"Dirección: PJ. SANTA ROSA 62 LT 3    - PUENTE PIEDRA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-15 06:27:43
+823,-12.2057288238645,-76.9243669573075,INCENDIO,"Dirección: PJ. SANTA ROSA DE LAS CONCHITAS  mz I  LT  1    - VILLA MARIA DEL TRIUNFO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-15 15:27:44
+824,-11.9943919669186,-76.8215948532467,INCENDIO,"Dirección: AH. HUASCATA MZ B  LT  1    - CHACLACAYO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-15 15:27:46
+825,-12.052237796071,-77.0135044915219,INCENDIO,"Dirección: JR. ANTONIO MIROQUESADA  1508  - LIMA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-15 19:27:44
+826,-12.1123433065814,-77.0503469667559,RESCATE,"Dirección: MA. DE LA MARINA  1000  - MIRAFLORES, Tipo: RESCATE / ACANTILADO / CON ACCESO INFERIOR",2021-08-16 01:27:44
+827,-12.0580628264346,-77.0553650943768,INCENDIO,"Dirección: JR. PILCOMAYO  517  - BREÑA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-16 09:28:07
+828,-12.0631418355964,-77.0187305538848,ACCIDENTE VEHICULAR,"Dirección: PR. LUCANAS (PARINACOCHAS) CRUCE CON AV. JAIME BAUSATE Y MEZA (BOLIVAR) LA VICTORIA    - LA VICTORIA, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-08-16 08:27:45
+829,-12.2160245785901,-76.9416806796672,INCENDIO,"Dirección: AV. CESAR VALLEJO CRUCE CON AV. MICAELA BASTIDAS VILLA EL SALVADOR    - VILLA EL SALVADOR, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-16 11:27:43
+830,-11.959428052184,-77.0760789544818,INCENDIO,"Dirección: AV. HUANDOY CRUCE CON AV. CENTRAL LOS OLIVOS    - LOS OLIVOS, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-16 19:27:46
+831,-12.012019651057,-77.0680354880769,INCENDIO,"Dirección: JR. ALFONSO BERNAL MONTOYA  204  - SAN MARTIN DE PORRES, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-17 05:27:46
+832,-12.1426965946352,-76.9418643673272,INCENDIO,"Dirección: CL. JOSE OLAYA /VALLECITO ALTO  700  - VILLA MARIA DEL TRIUNFO, Tipo: INCENDIO / OTROS / CHIMENEA",2021-08-17 15:27:49
+833,-12.1233734138944,-77.0176210203162,INCENDIO,"Dirección: CL. LUIS BERNALES GARCIA (RICARDO ANGULO RAMIREZ) (LOS CENCERILLOS)  1200  - SAN ISIDRO, Tipo: INCENDIO / TERRENO BALDIO",2021-08-17 16:28:28
+834,-12.0518511611942,-77.1399784932426,ACCIDENTE VEHICULAR,"Dirección: AV. GUARDIA CHALACA CRUCE CON AV. REPUBLICA ARGENTINA CALLAO    - CALLAO, Tipo: ACCIDENTE VEHICULAR / PARTICULAR / AUTOMOVIL",2021-08-17 17:34:47
+835,-11.9780645202403,-77.0606199355522,INCENDIO,"Dirección: CL. LAS FRAGUAS  100  - INDEPENDENCIA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-17 23:27:46
+836,-12.0600925160899,-77.1362577317468,INCENDIO,"Dirección: AV. SAENZ PEÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚  893  - CALLAO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-18 01:39:03
+837,-12.0464173475914,-77.0506630096768,INCENDIO,"Dirección: AV. RAMON CARCAMO  587  - LIMA, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-18 03:27:43
+838,-12.0537442527631,-77.1346637316041,INCENDIO,"Dirección: JR. CUSCO  900  - CALLAO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-18 03:27:43
+839,-12.1801169776238,-76.9486908313837,INCENDIO,"Dirección: CL. CONTRALMIRANTE MORA CRUCE CON CL. JOSE DE LA TORRE UGARTE VILLA MARIA DEL TRIUNFO    - VILLA MARIA DEL TRIUNFO, Tipo: INCENDIO / ESTRUCTURAS / VIVIENDA / MATERIAL NOBLE",2021-08-18 14:27:42
